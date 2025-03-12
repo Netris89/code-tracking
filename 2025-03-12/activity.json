@@ -245,6 +245,39 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\AbstractService.cs"
       ],
       "averageChangeSize": 72.5
+    },
+    "MusicSort": {
+      "totalLinesAdded": 44,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\PowerShell\\MusicSort\\MusicSort.ps1": [
+          {
+            "timestamp": "2025-03-12T18:05:49.289Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\PowerShell\\MusicSort\\MusicSort.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "MusicSort",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
+          }
+        ]
+      },
+      "languageStats": {
+        "ps1": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\PowerShell\\MusicSort\\MusicSort.ps1"
+      ],
+      "averageChangeSize": 44
     }
   },
   "totalActiveTime": 9,
