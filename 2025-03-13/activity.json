@@ -539,9 +539,9 @@
       "averageChangeSize": 37.5
     },
     "Front-end": {
-      "totalLinesAdded": 77,
+      "totalLinesAdded": 78,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 5,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Program.cs": [
           {
@@ -614,6 +614,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-03-13T19:38:19.027Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\App.razor",
+            "fileType": ".razor",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "razor"
           }
         ]
