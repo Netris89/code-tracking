@@ -93,6 +93,57 @@
         "c:\\Users\\ludov\\Downloads\\client_secret_806822575690-l0i0pto57u9a7hakmbn0m7vshgkm2g1e.apps.googleusercontent.com.json"
       ],
       "averageChangeSize": 5
+    },
+    "echo": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.github\\workflows\\update_submodules.yml": [
+          {
+            "timestamp": "2025-03-18T22:35:23.911Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.github\\workflows\\update_submodules.yml",
+            "fileType": ".yml",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.gitignore": [
+          {
+            "timestamp": "2025-03-18T22:36:10.702Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "yml": 0,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.github\\workflows\\update_submodules.yml",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.gitignore"
+      ],
+      "averageChangeSize": 44
     }
   },
   "totalActiveTime": 1,
