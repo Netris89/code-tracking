@@ -2,9 +2,9 @@
   "date": "2025-03-18",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 412,
+      "totalLinesAdded": 492,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\ludov\\Downloads\\client_secret_806822575690-l0i0pto57u9a7hakmbn0m7vshgkm2g1e.apps.googleusercontent.com.json": [
           {
@@ -64,6 +64,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs": [
+          {
+            "timestamp": "2025-03-18T17:54:10.604Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
           }
         ]
       },
