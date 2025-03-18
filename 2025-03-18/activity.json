@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-18",
+  "projects": {
+    "Back-end": {
+      "totalLinesAdded": 10,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ludov\\Downloads\\client_secret_806822575690-l0i0pto57u9a7hakmbn0m7vshgkm2g1e.apps.googleusercontent.com.json": [
+          {
+            "timestamp": "2025-03-18T17:46:28.209Z",
+            "fileName": "c:\\Users\\ludov\\Downloads\\client_secret_806822575690-l0i0pto57u9a7hakmbn0m7vshgkm2g1e.apps.googleusercontent.com.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-18T17:46:29.222Z",
+            "fileName": "c:\\Users\\ludov\\Downloads\\client_secret_806822575690-l0i0pto57u9a7hakmbn0m7vshgkm2g1e.apps.googleusercontent.com.json",
+            "fileType": ".json",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Downloads\\client_secret_806822575690-l0i0pto57u9a7hakmbn0m7vshgkm2g1e.apps.googleusercontent.com.json"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
