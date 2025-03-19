@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "echo": {
-      "totalLinesAdded": 65,
+      "totalLinesAdded": 134,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 10,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json": [
           {
@@ -108,6 +108,52 @@
             },
             "duration": 2,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
+          {
+            "timestamp": "2025-03-19T19:19:21.772Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\bin\\.cmake\\api\\v1\\query\\client-vscode\\query.json": [
+          {
+            "timestamp": "2025-03-19T19:19:36.921Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\bin\\.cmake\\api\\v1\\query\\client-vscode\\query.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-19T19:19:37.936Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\bin\\.cmake\\api\\v1\\query\\client-vscode\\query.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
