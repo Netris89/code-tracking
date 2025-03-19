@@ -1,0 +1,120 @@
+{
+  "date": "2025-03-19",
+  "projects": {
+    "echo": {
+      "totalLinesAdded": 52,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 8,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json": [
+          {
+            "timestamp": "2025-03-19T18:45:09.018Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-19T18:45:10.055Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-19T18:47:37.845Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-19T18:47:42.937Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-19T18:48:11.397Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-03-19T18:49:12.282Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 8
+      },
+      "changeFrequency": {
+        "19": 8
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\launch.json",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\utils\\echo\\.vscode\\tasks.json"
+      ],
+      "averageChangeSize": 9.333333333333334
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
