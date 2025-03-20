@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 173                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 170                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Added** (➕)   | 313                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 305                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
 - **appsettings.json** (+25, -3)
 - **Program.cs** (+126, -0)
 - **appsettings.Development.json** (+22, -0)
+- **AuthController.cs** (+140, -5)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 50
-".cs" : 126
+".cs" : 271
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"18h" : 8
+"18h" : 16
 ```
 
 
-> **Last Updated:** 3/20/2025, 6:16:25 PM
+> **Last Updated:** 3/20/2025, 6:26:37 PM
