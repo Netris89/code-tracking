@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 489                                          |
-| **Lines Removed** (➖) | 33                                        |
-| **Net Change** (↕)    | 456                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Lines Added** (➕)   | 577                                          |
+| **Lines Removed** (➖) | 36                                        |
+| **Net Change** (↕)    | 541                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
 - **appsettings.json** (+47, -7)
-- **Program.cs** (+258, -3)
+- **Program.cs** (+265, -3)
 - **appsettings.Development.json** (+44, -5)
-- **AuthController.cs** (+140, -18)
+- **AuthController.cs** (+147, -21)
+- **User.cs** (+74, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 103
-".cs" : 419
+".cs" : 510
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 32
+"19h" : 7
 ```
 
 
-> **Last Updated:** 3/20/2025, 7:01:37 PM
+> **Last Updated:** 3/20/2025, 7:11:37 PM
