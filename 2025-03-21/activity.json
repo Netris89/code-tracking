@@ -3,7 +3,7 @@
   "projects": {
     "Back-end": {
       "totalLinesAdded": 928,
-      "totalLinesRemoved": 37,
+      "totalLinesRemoved": 49,
       "totalActiveTime": 93,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs": [
@@ -1019,6 +1019,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-21T22:32:23.208Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],
