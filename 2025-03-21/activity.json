@@ -2,7 +2,7 @@
   "date": "2025-03-21",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 737,
+      "totalLinesAdded": 781,
       "totalLinesRemoved": 33,
       "totalActiveTime": 64,
       "files": {
@@ -743,6 +743,20 @@
           },
           {
             "timestamp": "2025-03-21T19:47:04.168Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-21T21:59:54.590Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
             "fileType": ".cs",
             "linesAdded": 44,
