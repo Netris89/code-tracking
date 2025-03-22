@@ -2,9 +2,9 @@
   "date": "2025-03-22",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 784,
+      "totalLinesAdded": 801,
       "totalLinesRemoved": 44,
-      "totalActiveTime": 71,
+      "totalActiveTime": 74,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs": [
           {
@@ -864,6 +864,36 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\SecurityHeadersMiddleware.cs",
             "fileType": ".cs",
             "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\InputSanitizationService.cs": [
+          {
+            "timestamp": "2025-03-22T21:07:07.014Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\InputSanitizationService.cs",
+            "fileType": ".cs",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T21:07:08.035Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\InputSanitizationService.cs",
+            "fileType": ".cs",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "Back-end",
             "content": {
