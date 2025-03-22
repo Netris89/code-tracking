@@ -2,9 +2,9 @@
   "date": "2025-03-22",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 145,
+      "totalLinesAdded": 161,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 20,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs": [
           {
@@ -219,6 +219,160 @@
           },
           {
             "timestamp": "2025-03-22T13:57:36.164Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:58:21.264Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:58:31.450Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:58:53.340Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:58:55.188Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:59:05.435Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:59:16.643Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:59:32.242Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:59:33.915Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:59:48.315Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T13:59:58.419Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-22T14:00:25.415Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs",
             "fileType": ".cs",
             "linesAdded": 2,
