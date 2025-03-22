@@ -915,6 +915,138 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PayementsController.cs"
       ],
       "averageChangeSize": 9.333333333333334
+    },
+    "SchoolManagement": {
+      "totalLinesAdded": 132,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Backend.csproj": [
+          {
+            "timestamp": "2025-03-22T22:32:42.122Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Backend.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csproj"
+          },
+          {
+            "timestamp": "2025-03-22T22:32:43.282Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Backend.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csproj"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj": [
+          {
+            "timestamp": "2025-03-22T22:33:00.005Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csproj"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Test\\Test.csproj": [
+          {
+            "timestamp": "2025-03-22T22:33:06.268Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Test\\Test.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csproj"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Program.cs": [
+          {
+            "timestamp": "2025-03-22T22:34:37.661Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\SchoolManagement.Core\\Program.cs": [
+          {
+            "timestamp": "2025-03-22T22:34:37.676Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\SchoolManagement.Core\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Program.cs": [
+          {
+            "timestamp": "2025-03-22T22:34:37.693Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "csproj": 3,
+        "cs": 6
+      },
+      "changeFrequency": {
+        "23": 9
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Backend.csproj",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Test\\Test.csproj",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Program.cs",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\SchoolManagement.Core\\Program.cs"
+      ],
+      "averageChangeSize": 18.857142857142858
     }
   },
   "totalActiveTime": 7,
