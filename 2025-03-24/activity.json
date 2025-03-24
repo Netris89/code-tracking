@@ -575,6 +575,39 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs"
       ],
       "averageChangeSize": 3.272727272727273
+    },
+    "Plugin": {
+      "totalLinesAdded": 32,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-03-24T21:11:26.255Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "Plugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\.vscode\\tasks.json"
+      ],
+      "averageChangeSize": 32
     }
   },
   "totalActiveTime": 10,
