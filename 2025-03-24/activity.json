@@ -2,9 +2,9 @@
   "date": "2025-03-24",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 347,
-      "totalLinesRemoved": 48,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 649,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 45,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs": [
           {
@@ -395,6 +395,166 @@
             "fileType": ".cs",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs": [
+          {
+            "timestamp": "2025-03-24T19:20:40.703Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:20:41.719Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:20:42.971Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 38,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:20:44.337Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:21:11.959Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:21:18.870Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\InputSanitizationService.cs": [
+          {
+            "timestamp": "2025-03-24T19:22:37.970Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\InputSanitizationService.cs",
+            "fileType": ".cs",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:22:38.982Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\InputSanitizationService.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Enums\\Roles.cs": [
+          {
+            "timestamp": "2025-03-24T19:23:32.348Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Enums\\Roles.cs",
+            "fileType": ".cs",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:23:33.363Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Enums\\Roles.cs",
+            "fileType": ".cs",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-24T19:23:43.564Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Enums\\Roles.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Back-end",
             "content": {
               "added": [],

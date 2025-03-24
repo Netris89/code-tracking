@@ -4,16 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 347                                          |
-| **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 299                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 649                                          |
+| **Lines Removed** (➖) | 88                                        |
+| **Net Change** (↕)    | 561                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
 - **SecurityHeadersMiddleware.cs** (+85, -21)
 - **Program.cs** (+182, -6)
 - **PayementsController.cs** (+80, -21)
+- **AuthController.cs** (+245, -39)
+- **InputSanitizationService.cs** (+28, -0)
+- **Roles.cs** (+29, -1)
 
 ## Visualizations
 
@@ -22,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 395
+".cs" : 737
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"20h" : 28
+"20h" : 39
 ```
 
 
-> **Last Updated:** 3/24/2025, 8:20:30 PM
+> **Last Updated:** 3/24/2025, 8:25:30 PM
