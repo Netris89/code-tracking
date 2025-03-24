@@ -577,9 +577,9 @@
       "averageChangeSize": 3.272727272727273
     },
     "Plugin": {
-      "totalLinesAdded": 32,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\.vscode\\tasks.json": [
           {
@@ -595,6 +595,78 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-03-24T22:46:41.748Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "Plugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-24T22:49:54.495Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Plugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-24T22:49:56.459Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Plugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-24T22:50:10.655Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Plugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-24T22:50:16.214Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Plugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Plugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },

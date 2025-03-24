@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 32                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 147                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 144                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **tasks.json** (+32, -0)
+- **CMakeLists.txt** (+115, -3)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 32
+".txt" : 118
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "22h" : 1
+"23h" : 5
 ```
 
 
-> **Last Updated:** 3/24/2025, 10:15:14 PM
+> **Last Updated:** 3/24/2025, 11:50:17 PM
