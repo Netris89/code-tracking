@@ -665,6 +665,53 @@
         "c:\\Users\\ludov\\Documents\\Code\\JUCE\\juce_cmake_vscode_example\\src\\PluginProcessor.h"
       ],
       "averageChangeSize": 26.75
+    },
+    "Test": {
+      "totalLinesAdded": 259,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-03-25T22:16:19.385Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 258,
+            "linesRemoved": 0,
+            "projectName": "Test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-25T22:16:26.821Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Test",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 129.5
     }
   },
   "totalActiveTime": 1,
