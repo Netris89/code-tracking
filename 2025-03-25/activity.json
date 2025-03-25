@@ -253,6 +253,84 @@
         "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\CMakeLists.txt"
       ],
       "averageChangeSize": 72
+    },
+    "FRUT": {
+      "totalLinesAdded": 176,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-03-25T17:36:20.897Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "FRUT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-25T17:37:09.333Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FRUT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-25T17:39:24.087Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FRUT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\Jucer2CMake\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-03-25T17:39:35.507Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\Jucer2CMake\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "FRUT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 5
+      },
+      "changeFrequency": {
+        "18": 5
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\CMakeLists.txt",
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\Jucer2CMake\\CMakeLists.txt"
+      ],
+      "averageChangeSize": 44.25
     }
   },
   "totalActiveTime": 1,
