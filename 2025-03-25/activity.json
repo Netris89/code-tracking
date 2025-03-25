@@ -331,6 +331,67 @@
         "c:\\Users\\ludov\\Documents\\Code\\JUCE\\FRUT\\Jucer2CMake\\CMakeLists.txt"
       ],
       "averageChangeSize": 44.25
+    },
+    "Back-end": {
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs": [
+          {
+            "timestamp": "2025-03-25T19:20:19.977Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs",
+            "fileType": ".cs",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-25T19:22:47.630Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-25T19:23:02.364Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 4
+      },
+      "changeFrequency": {
+        "20": 4
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs"
+      ],
+      "averageChangeSize": 22
     }
   },
   "totalActiveTime": 1,
