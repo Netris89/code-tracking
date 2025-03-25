@@ -586,6 +586,85 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs"
       ],
       "averageChangeSize": 22
+    },
+    "juce_cmake_vscode_example (Workspace)": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\juce\\juce_cmake_vscode_example\\src\\PluginEditor.cpp": [
+          {
+            "timestamp": "2025-03-25T20:29:09.150Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\juce\\juce_cmake_vscode_example\\src\\PluginEditor.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "juce_cmake_vscode_example (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-25T20:31:05.438Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\juce\\juce_cmake_vscode_example\\src\\PluginEditor.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "juce_cmake_vscode_example (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-25T20:31:58.953Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\juce\\juce_cmake_vscode_example\\src\\PluginEditor.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "juce_cmake_vscode_example (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\juce_cmake_vscode_example\\src\\PluginProcessor.h": [
+          {
+            "timestamp": "2025-03-25T20:33:13.021Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\juce_cmake_vscode_example\\src\\PluginProcessor.h",
+            "fileType": ".h",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "juce_cmake_vscode_example (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "h"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 3,
+        "h": 2
+      },
+      "changeFrequency": {
+        "21": 5
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\juce\\juce_cmake_vscode_example\\src\\PluginEditor.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\juce_cmake_vscode_example\\src\\PluginProcessor.h"
+      ],
+      "averageChangeSize": 26.75
     }
   },
   "totalActiveTime": 1,
