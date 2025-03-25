@@ -1,0 +1,66 @@
+{
+  "date": "2025-03-25",
+  "projects": {
+    "AudioPlugin": {
+      "totalLinesAdded": 144,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-03-25T17:06:29.119Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "AudioPlugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-03-25T17:07:07.584Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "AudioPlugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "txt": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\.vscode\\tasks.json",
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\CMakeLists.txt"
+      ],
+      "averageChangeSize": 72
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "txt",
+    "json"
+  ]
+}
