@@ -2,9 +2,9 @@
   "date": "2025-03-25",
   "projects": {
     "AudioPlugin": {
-      "totalLinesAdded": 144,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 472,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\.vscode\\tasks.json": [
           {
@@ -36,6 +36,50 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-03-25T17:17:02.036Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\AudioPlugin\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "AudioPlugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json": [
+          {
+            "timestamp": "2025-03-25T17:19:33.871Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 216,
+            "linesRemoved": 0,
+            "projectName": "AudioPlugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-25T17:19:42.682Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "AudioPlugin",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
