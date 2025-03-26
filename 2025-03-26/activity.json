@@ -1443,9 +1443,9 @@
       "averageChangeSize": 117.57142857142857
     },
     "echo": {
-      "totalLinesAdded": 395,
+      "totalLinesAdded": 401,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 22,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
           {
@@ -1685,6 +1685,62 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
             "fileType": ".cpp",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-26T20:19:13.504Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-26T20:19:16.915Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-26T20:19:50.731Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-26T20:20:34.414Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "echo",
             "content": {
