@@ -4,26 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2833                                          |
+| **Lines Added** (➕)   | 3715                                          |
 | **Lines Removed** (➖) | 12                                        |
-| **Net Change** (↕)    | 2821                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Net Change** (↕)    | 3703                |
+| **Active Time** (⌚)   | 64 minutes |
 
 
 ## Modified Files
 - **BasketControllerTests.cs** (+316, -0)
-- **BasketController.cs** (+48, -0)
-- **BasketService.cs** (+86, -0)
+- **BasketController.cs** (+96, -0)
+- **BasketService.cs** (+172, -0)
 - **BasketDAO.cs** (+102, -4)
-- **OrderControllerTests.cs** (+272, -0)
-- **OrderController.cs** (+48, -0)
-- **OrderService.cs** (+83, -0)
-- **OrderDAO.cs** (+49, -0)
+- **OrderControllerTests.cs** (+544, -0)
+- **OrderController.cs** (+96, -0)
+- **OrderService.cs** (+166, -0)
+- **OrderDAO.cs** (+98, -0)
 - **ReviewControllerTests.cs** (+274, -0)
-- **ReviewController.cs** (+80, -0)
-- **ReviewService.cs** (+76, -0)
-- **ReviewDAO.cs** (+50, -0)
-- **UserControllerTests.cs** (+91, -1)
+- **ReviewController.cs** (+160, -0)
+- **ReviewService.cs** (+152, -0)
+- **ReviewDAO.cs** (+100, -0)
+- **UserControllerTests.cs** (+181, -1)
 - **AuthController.cs** (+210, -1)
 - **LoginModel.cs** (+20, -2)
 - **PromotionController.cs** (+27, -2)
@@ -45,7 +45,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 2845
+".cs" : 3727
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +55,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 16
 "12h" : 20
-"14h" : 15
+"14h" : 25
 ```
 
 
-> **Last Updated:** 3/26/2025, 2:49:30 PM
+> **Last Updated:** 3/26/2025, 2:54:30 PM

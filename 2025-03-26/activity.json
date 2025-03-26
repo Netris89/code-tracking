@@ -2,9 +2,9 @@
   "date": "2025-03-26",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 2833,
+      "totalLinesAdded": 3715,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 54,
+      "totalActiveTime": 64,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\BasketControllerTests.cs": [
           {
@@ -36,11 +36,39 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:50:59.082Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\BasketController.cs",
+            "fileType": ".cs",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\BasketService.cs": [
           {
             "timestamp": "2025-03-26T10:46:10.482Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\BasketService.cs",
+            "fileType": ".cs",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:50:29.129Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\BasketService.cs",
             "fileType": ".cs",
             "linesAdded": 86,
@@ -140,11 +168,39 @@
             },
             "duration": 2,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:51:31.786Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\OrderControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 272,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\OrderController.cs": [
           {
             "timestamp": "2025-03-26T10:50:18.529Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\OrderController.cs",
+            "fileType": ".cs",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:51:03.773Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\OrderController.cs",
             "fileType": ".cs",
             "linesAdded": 48,
@@ -172,11 +228,39 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:50:35.558Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\OrderService.cs",
+            "fileType": ".cs",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\OrderDAO.cs": [
           {
             "timestamp": "2025-03-26T10:50:39.292Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\OrderDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:49:42.760Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\OrderDAO.cs",
             "fileType": ".cs",
             "linesAdded": 49,
@@ -220,6 +304,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:51:09.773Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ReviewController.cs",
+            "fileType": ".cs",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\ReviewService.cs": [
@@ -236,11 +334,39 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:50:40.799Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\ReviewService.cs",
+            "fileType": ".cs",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ReviewDAO.cs": [
           {
             "timestamp": "2025-03-26T10:53:30.824Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ReviewDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:49:48.205Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ReviewDAO.cs",
             "fileType": ".cs",
             "linesAdded": 50,
@@ -281,6 +407,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:51:41.618Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\UserControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ],
