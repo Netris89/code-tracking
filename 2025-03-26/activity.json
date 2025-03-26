@@ -2,7 +2,7 @@
   "date": "2025-03-26",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 1863,
+      "totalLinesAdded": 2039,
       "totalLinesRemoved": 10,
       "totalActiveTime": 39,
       "files": {
@@ -541,6 +541,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
+          {
+            "timestamp": "2025-03-26T13:07:16.164Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 176,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]
