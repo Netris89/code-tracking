@@ -2,7 +2,7 @@
   "date": "2025-03-26",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 3715,
+      "totalLinesAdded": 3716,
       "totalLinesRemoved": 12,
       "totalActiveTime": 64,
       "files": {
@@ -421,6 +421,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-26T13:57:08.888Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\UserControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],
