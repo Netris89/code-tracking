@@ -1443,9 +1443,9 @@
       "averageChangeSize": 117.57142857142857
     },
     "echo": {
-      "totalLinesAdded": 406,
+      "totalLinesAdded": 408,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 32,
+      "totalActiveTime": 38,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
           {
@@ -1592,6 +1592,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-26T20:34:42.394Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
@@ -1832,6 +1846,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-26T20:33:24.827Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "cpp"
           }
         ]
