@@ -1441,6 +1441,99 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\OrderControllerTests.cs"
       ],
       "averageChangeSize": 117.57142857142857
+    },
+    "echo": {
+      "totalLinesAdded": 311,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
+          {
+            "timestamp": "2025-03-26T20:01:38.421Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-26T20:01:39.433Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-26T20:02:20.206Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-26T20:04:23.566Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-03-26T20:03:15.152Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 260,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 4,
+        "json": 1
+      },
+      "changeFrequency": {
+        "21": 5
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 62.4
     }
   },
   "totalActiveTime": 9,
