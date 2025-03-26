@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3727                                          |
+| **Lines Added** (➕)   | 4111                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 3714                |
-| **Active Time** (⌚)   | 67 minutes |
+| **Net Change** (↕)    | 4098                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -27,8 +27,8 @@
 - **AuthController.cs** (+210, -1)
 - **LoginModel.cs** (+20, -2)
 - **PromotionController.cs** (+27, -2)
-- **User.cs** (+161, -1)
-- **Program.cs** (+177, -1)
+- **User.cs** (+241, -1)
+- **Program.cs** (+353, -1)
 - **AbstractController.cs** (+129, -1)
 - **AbstractService.cs** (+118, -0)
 - **AbstractDAO.cs** (+105, -0)
@@ -38,6 +38,8 @@
 - **UserDAO.cs** (+19, -0)
 - **UserService.cs** (+93, -0)
 - **Roles.cs** (+10, -0)
+- **ApplicationRoles.cs** (+14, -0)
+- **ShopConnectDbContext.cs** (+114, -0)
 
 ## Visualizations
 
@@ -46,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3740
+".cs" : 4124
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +59,8 @@ title Coding activity by hour (count of changes)
 "11h" : 16
 "12h" : 20
 "14h" : 26
-"15h" : 4
+"15h" : 10
 ```
 
 
-> **Last Updated:** 3/26/2025, 3:09:30 PM
+> **Last Updated:** 3/26/2025, 3:19:30 PM
