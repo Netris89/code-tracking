@@ -1444,8 +1444,8 @@
     },
     "echo": {
       "totalLinesAdded": 469,
-      "totalLinesRemoved": 62,
-      "totalActiveTime": 110,
+      "totalLinesRemoved": 63,
+      "totalActiveTime": 112,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
           {
@@ -1802,6 +1802,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-26T21:16:16.076Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
