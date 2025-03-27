@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 961                                          |
+| **Lines Added** (➕)   | 990                                          |
 | **Lines Removed** (➖) | 63                                        |
-| **Net Change** (↕)    | 898                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Net Change** (↕)    | 927                |
+| **Active Time** (⌚)   | 64 minutes |
 
 
 ## Modified Files
@@ -15,9 +15,9 @@
 - **OrderController.cs** (+50, -0)
 - **PayementsController.cs** (+61, -0)
 - **ProductController.cs** (+82, -0)
-- **UserController.cs** (+94, -30)
+- **UserController.cs** (+107, -30)
 - **ReviewController.cs** (+166, -0)
-- **ShopController.cs** (+116, -31)
+- **ShopController.cs** (+132, -31)
 - **PromotionController.cs** (+86, -2)
 - **AbstractController.cs** (+256, -0)
 
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 1024
+".cs" : 1053
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 23
-"19h" : 33
+"19h" : 35
 ```
 
 
-> **Last Updated:** 3/27/2025, 7:58:30 PM
+> **Last Updated:** 3/27/2025, 8:03:30 PM
