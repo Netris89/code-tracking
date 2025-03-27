@@ -851,6 +851,81 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs"
       ],
       "averageChangeSize": 18.705882352941178
+    },
+    "echo": {
+      "totalLinesAdded": 57,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp": [
+          {
+            "timestamp": "2025-03-27T22:17:35.814Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-27T22:17:39.746Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-27T22:20:19.915Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-03-27T22:20:22.033Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 5
+      },
+      "changeFrequency": {
+        "23": 5
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp"
+      ],
+      "averageChangeSize": 14.25
     }
   },
   "totalActiveTime": 17,
