@@ -2,9 +2,9 @@
   "date": "2025-03-27",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 894,
+      "totalLinesAdded": 916,
       "totalLinesRemoved": 32,
-      "totalActiveTime": 52,
+      "totalActiveTime": 53,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\BasketController.cs": [
           {
@@ -193,6 +193,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-27T18:33:40.515Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],
@@ -614,6 +628,20 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PromotionController.cs",
             "fileType": ".cs",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-27T18:34:27.414Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\PromotionController.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "Back-end",
             "content": {
