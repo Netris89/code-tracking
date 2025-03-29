@@ -1,0 +1,75 @@
+{
+  "date": "2025-03-29",
+  "projects": {
+    "Back-end": {
+      "totalLinesAdded": 211,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs": [
+          {
+            "timestamp": "2025-03-29T17:52:05.776Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 209,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-29T17:52:06.802Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-29T17:54:41.074Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 4
+      },
+      "changeFrequency": {
+        "18": 4
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\AuthController.cs"
+      ],
+      "averageChangeSize": 70.33333333333333
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
