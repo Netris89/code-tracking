@@ -716,6 +716,39 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cat\\CMakeLists.txt"
       ],
       "averageChangeSize": 7.3
+    },
+    "Front-end": {
+      "totalLinesAdded": 114,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\JwtAuthStateProvider.cs": [
+          {
+            "timestamp": "2025-03-30T16:59:22.326Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\JwtAuthStateProvider.cs",
+            "fileType": ".cs",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\JwtAuthStateProvider.cs"
+      ],
+      "averageChangeSize": 114
     }
   },
   "totalActiveTime": 7,
