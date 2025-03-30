@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 217                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 216                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Lines Added** (➕)   | 270                                          |
+| **Lines Removed** (➖) | 14                                        |
+| **Net Change** (↕)    | 256                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
 - **JwtAuthStateProvider.cs** (+116, -1)
 - **MainLayout.razor.cs** (+39, -0)
-- **MainLayout.razor** (+62, -0)
+- **MainLayout.razor** (+63, -12)
+- **Program.cs** (+52, -1)
 
 ## Visualizations
 
@@ -22,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 156
-".razor" : 62
+".cs" : 209
+".razor" : 75
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 1
-"19h" : 5
+"19h" : 10
 ```
 
 
-> **Last Updated:** 3/30/2025, 7:20:54 PM
+> **Last Updated:** 3/30/2025, 7:25:54 PM
