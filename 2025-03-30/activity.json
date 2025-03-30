@@ -488,6 +488,67 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp"
       ],
       "averageChangeSize": 8.714285714285714
+    },
+    "Utilities": {
+      "totalLinesAdded": 15,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitmodules": [
+          {
+            "timestamp": "2025-03-30T01:02:58.273Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitmodules",
+            "fileType": "unknown",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Utilities",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-30T01:03:07.246Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitmodules",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Utilities",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-30T01:03:14.181Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitmodules",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Utilities",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "3": 2
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitmodules"
+      ],
+      "averageChangeSize": 5
     }
   },
   "totalActiveTime": 7,
