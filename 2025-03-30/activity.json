@@ -718,9 +718,9 @@
       "averageChangeSize": 7.3
     },
     "Front-end": {
-      "totalLinesAdded": 271,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 324,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\JwtAuthStateProvider.cs": [
           {
@@ -895,6 +895,78 @@
               "removed": []
             },
             "duration": 0,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs": [
+          {
+            "timestamp": "2025-03-30T17:32:47.327Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:32:48.723Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:33:01.834Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:33:59.107Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:34:02.150Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ]
