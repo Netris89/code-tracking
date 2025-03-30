@@ -718,7 +718,7 @@
       "averageChangeSize": 7.3
     },
     "Front-end": {
-      "totalLinesAdded": 116,
+      "totalLinesAdded": 155,
       "totalLinesRemoved": 1,
       "totalActiveTime": 5,
       "files": {
@@ -763,6 +763,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor.cs": [
+          {
+            "timestamp": "2025-03-30T17:13:34.613Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]
