@@ -718,7 +718,7 @@
       "averageChangeSize": 7.3
     },
     "Front-end": {
-      "totalLinesAdded": 270,
+      "totalLinesAdded": 271,
       "totalLinesRemoved": 14,
       "totalActiveTime": 20,
       "files": {
@@ -881,6 +881,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:30:25.023Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]
