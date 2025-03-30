@@ -718,9 +718,9 @@
       "averageChangeSize": 7.3
     },
     "Front-end": {
-      "totalLinesAdded": 328,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 418,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 45,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\JwtAuthStateProvider.cs": [
           {
@@ -821,6 +821,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:40:55.425Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:43:32.095Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:43:35.949Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:44:13.287Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ],
@@ -1003,6 +1059,50 @@
             "fileType": ".cs",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\Auth\\CustomAuthenticationStateProvider.cs": [
+          {
+            "timestamp": "2025-03-30T17:45:44.943Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\Auth\\CustomAuthenticationStateProvider.cs",
+            "fileType": ".cs",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:45:45.957Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\Auth\\CustomAuthenticationStateProvider.cs",
+            "fileType": ".cs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-03-30T17:45:50.634Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\Auth\\CustomAuthenticationStateProvider.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "Front-end",
             "content": {
               "added": [],
