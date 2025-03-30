@@ -718,9 +718,9 @@
       "averageChangeSize": 7.3
     },
     "Front-end": {
-      "totalLinesAdded": 155,
+      "totalLinesAdded": 217,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Services\\JwtAuthStateProvider.cs": [
           {
@@ -780,6 +780,36 @@
             },
             "duration": 0,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor": [
+          {
+            "timestamp": "2025-03-30T17:17:05.351Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor",
+            "fileType": ".razor",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-03-30T17:20:28.810Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Layout\\MainLayout.razor",
+            "fileType": ".razor",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "razor"
           }
         ]
       },
