@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2304                                          |
-| **Lines Removed** (➖) | 260                                        |
-| **Net Change** (↕)    | 2044                |
-| **Active Time** (⌚)   | 175 minutes |
+| **Lines Added** (➕)   | 2464                                          |
+| **Lines Removed** (➖) | 314                                        |
+| **Net Change** (↕)    | 2150                |
+| **Active Time** (⌚)   | 181 minutes |
 
 
 ## Modified Files
-- **UserControllerTests.cs** (+217, -57)
+- **UserControllerTests.cs** (+377, -81)
 - **ProductService.cs** (+82, -0)
 - **AbstractDAO.cs** (+108, -2)
-- **ShopControllerTests.cs** (+474, -28)
+- **ShopControllerTests.cs** (+474, -34)
 - **BasketControllerTests.cs** (+336, -41)
 - **ProductControllerTests.cs** (+244, -47)
 - **ReviewControllerTests.cs** (+311, -36)
-- **PromotionControllerTests.cs** (+208, -16)
+- **PromotionControllerTests.cs** (+208, -40)
 - **AuthControllerTests.cs** (+26, -2)
 - **PayementsControllerTests.cs** (+26, -2)
 - **OrderControllerTests.cs** (+272, -29)
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 2564
+".cs" : 2778
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "16h" : 36
 "18h" : 20
 "19h" : 36
-"21h" : 25
+"21h" : 30
 ```
 
 
-> **Last Updated:** 4/1/2025, 9:20:52 PM
+> **Last Updated:** 4/1/2025, 9:25:52 PM
