@@ -2,9 +2,9 @@
   "date": "2025-04-01",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 150,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 247,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\UserControllerTests.cs": [
           {
@@ -271,6 +271,64 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-01T13:55:11.401Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\UserControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-01T13:55:28.139Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\UserControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-01T13:56:48.185Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\UserControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\ProductService.cs": [
+          {
+            "timestamp": "2025-04-01T13:59:18.969Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Services\\ProductService.cs",
+            "fileType": ".cs",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "cs"
           }
         ]
