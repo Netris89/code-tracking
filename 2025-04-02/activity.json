@@ -2,9 +2,9 @@
   "date": "2025-04-02",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 4417,
+      "totalLinesAdded": 4443,
       "totalLinesRemoved": 379,
-      "totalActiveTime": 293,
+      "totalActiveTime": 297,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs": [
           {
@@ -2921,6 +2921,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-02T20:09:12.536Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\PayementsControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "cs"
           }
         ],
