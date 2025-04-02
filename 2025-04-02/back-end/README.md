@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4902                                          |
-| **Lines Removed** (➖) | 455                                        |
-| **Net Change** (↕)    | 4447                |
-| **Active Time** (⌚)   | 379 minutes |
+| **Lines Added** (➕)   | 4956                                          |
+| **Lines Removed** (➖) | 460                                        |
+| **Net Change** (↕)    | 4496                |
+| **Active Time** (⌚)   | 389 minutes |
 
 
 ## Modified Files
@@ -28,6 +28,7 @@
 - **BasketDAOTests.cs** (+109, -31)
 - **BasketServiceTest.cs** (+230, -38)
 - **ShopConnectDbContext.cs** (+120, -1)
+- **BasketDAO.cs** (+54, -5)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 5251
+".cs" : 5310
 ".csproj" : 106
 ```
 
@@ -49,8 +50,8 @@ title Coding activity by hour (count of changes)
 "19h" : 36
 "20h" : 51
 "21h" : 71
-"22h" : 79
+"22h" : 84
 ```
 
 
-> **Last Updated:** 4/2/2025, 10:50:01 PM
+> **Last Updated:** 4/2/2025, 10:55:01 PM
