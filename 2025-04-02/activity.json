@@ -3,8 +3,8 @@
   "projects": {
     "Back-end": {
       "totalLinesAdded": 4443,
-      "totalLinesRemoved": 379,
-      "totalActiveTime": 297,
+      "totalLinesRemoved": 385,
+      "totalActiveTime": 301,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs": [
           {
@@ -2805,6 +2805,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-02T20:12:27.951Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "cs"
           }
         ],
