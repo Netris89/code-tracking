@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2146                                          |
-| **Lines Removed** (➖) | 162                                        |
+| **Lines Added** (➕)   | 2184                                          |
+| **Lines Removed** (➖) | 200                                        |
 | **Net Change** (↕)    | 1984                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Active Time** (⌚)   | 179 minutes |
 
 
 ## Modified Files
-- **AuthControllerTests.cs** (+279, -162)
+- **AuthControllerTests.cs** (+317, -200)
 - **AuthController.cs** (+223, -0)
 - **PayementsControllerTests.cs** (+26, -0)
 - **BasketControllerTests.cs** (+295, -0)
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 2270
+".cs" : 2346
 ".csproj" : 38
 ```
 
@@ -42,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "18h" : 59
 "19h" : 36
-"20h" : 47
+"20h" : 51
 ```
 
 
-> **Last Updated:** 4/2/2025, 8:56:15 PM
+> **Last Updated:** 4/2/2025, 9:01:15 PM
