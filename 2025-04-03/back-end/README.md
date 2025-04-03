@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3218                                          |
-| **Lines Removed** (➖) | 93                                        |
-| **Net Change** (↕)    | 3125                |
-| **Active Time** (⌚)   | 238 minutes |
+| **Lines Removed** (➖) | 96                                        |
+| **Net Change** (↕)    | 3122                |
+| **Active Time** (⌚)   | 246 minutes |
 
 
 ## Modified Files
@@ -52,7 +52,7 @@
 - **AbstractDAO.cs** (+106, -0)
 - **OrderDAO.cs** (+49, -0)
 - **Backend.csproj** (+38, -0)
-- **PayementsControllerTests.cs** (+80, -0)
+- **PayementsControllerTests.cs** (+80, -3)
 
 ## Visualizations
 
@@ -61,7 +61,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3273
+".cs" : 3276
 ".csproj" : 38
 ```
 
@@ -72,7 +72,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 11
 "20h" : 102
+"21h" : 2
 ```
 
 
-> **Last Updated:** 4/3/2025, 8:58:11 PM
+> **Last Updated:** 4/3/2025, 9:03:11 PM
