@@ -2,9 +2,9 @@
   "date": "2025-04-03",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 792,
-      "totalLinesRemoved": 75,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 818,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 75,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs": [
           {
@@ -545,6 +545,188 @@
             "fileType": ".cs",
             "linesAdded": 36,
             "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:33:16.339Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:34:04.308Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:34:41.032Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:34:43.359Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:34:58.331Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:35:01.799Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:36:22.017Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:36:27.435Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:36:33.396Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:36:35.162Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:36:48.486Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:36:50.662Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-03T18:37:26.055Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "Back-end",
             "content": {
               "added": [],
