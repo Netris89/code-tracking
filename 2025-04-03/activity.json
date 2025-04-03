@@ -1767,6 +1767,39 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\AuthControllerTests.cs"
       ],
       "averageChangeSize": 57.8
+    },
+    "Front-end": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs": [
+          {
+            "timestamp": "2025-04-03T20:11:03.954Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs"
+      ],
+      "averageChangeSize": 106
     }
   },
   "totalActiveTime": 4,
