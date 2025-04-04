@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 657                                          |
-| **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 622                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Lines Added** (➕)   | 1136                                          |
+| **Lines Removed** (➖) | 198                                        |
+| **Net Change** (↕)    | 938                |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
-- **Program.cs** (+415, -24)
-- **insert.sql** (+231, -11)
+- **Program.cs** (+612, -26)
+- **insert.sql** (+513, -172)
 - **settings.json** (+11, -0)
 
 ## Visualizations
@@ -22,8 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 439
-".sql" : 242
+".cs" : 638
+".sql" : 685
 ".json" : 11
 ```
 
@@ -34,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 4
 "10h" : 24
-"11h" : 4
+"11h" : 11
 ```
 
 
-> **Last Updated:** 4/4/2025, 11:12:15 AM
+> **Last Updated:** 4/4/2025, 11:17:16 AM
