@@ -2,9 +2,9 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 2581,
-      "totalLinesRemoved": 555,
-      "totalActiveTime": 157,
+      "totalLinesAdded": 2585,
+      "totalLinesRemoved": 559,
+      "totalActiveTime": 159,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
           {
@@ -1051,6 +1051,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-04T12:53:11.548Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\commands.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-04T12:53:23.056Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\commands.sql",
+            "fileType": ".sql",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ],

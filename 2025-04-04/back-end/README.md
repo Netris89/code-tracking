@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2581                                          |
-| **Lines Removed** (➖) | 555                                        |
+| **Lines Added** (➕)   | 2585                                          |
+| **Lines Removed** (➖) | 559                                        |
 | **Net Change** (↕)    | 2026                |
-| **Active Time** (⌚)   | 157 minutes |
+| **Active Time** (⌚)   | 159 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **settings.json** (+11, -0)
 - **TestUsers.txt** (+3, -2)
 - **TestUsers.json** (+25, -1)
-- **commands.sql** (+68, -55)
+- **commands.sql** (+72, -59)
 - **ShopDAO.cs** (+104, -6)
 - **ShopConnectDbContext.cs** (+247, -14)
 - **ProductDAO.cs** (+99, -7)
@@ -34,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".cs" : 1337
-".sql" : 1036
+".sql" : 1044
 ".json" : 306
 ".txt" : 5
 "unknown" : 403
@@ -50,8 +50,8 @@ title Coding activity by hour (count of changes)
 "10h" : 24
 "11h" : 37
 "12h" : 24
-"14h" : 39
+"14h" : 41
 ```
 
 
-> **Last Updated:** 4/4/2025, 2:53:00 PM
+> **Last Updated:** 4/4/2025, 2:58:00 PM
