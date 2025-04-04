@@ -2,7 +2,7 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 525,
+      "totalLinesAdded": 536,
       "totalLinesRemoved": 24,
       "totalActiveTime": 31,
       "files": {
@@ -400,6 +400,22 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-04-04T09:06:15.605Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
