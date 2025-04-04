@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2901                                          |
-| **Lines Removed** (➖) | 582                                        |
+| **Lines Added** (➕)   | 2904                                          |
+| **Lines Removed** (➖) | 585                                        |
 | **Net Change** (↕)    | 2319                |
-| **Active Time** (⌚)   | 207 minutes |
+| **Active Time** (⌚)   | 217 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **commands.sql** (+72, -62)
 - **ShopDAO.cs** (+104, -6)
 - **ShopConnectDbContext.cs** (+276, -27)
-- **ProductDAO.cs** (+103, -9)
+- **ProductDAO.cs** (+106, -12)
 - **.gitignore** (+403, -0)
 - **Backend.csproj** (+49, -0)
 - **Promotion.cs** (+119, -35)
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 1673
+".cs" : 1679
 ".sql" : 1047
 ".json" : 306
 ".txt" : 5
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "11h" : 37
 "12h" : 24
 "14h" : 44
-"15h" : 27
+"15h" : 31
 ```
 
 
-> **Last Updated:** 4/4/2025, 3:38:00 PM
+> **Last Updated:** 4/4/2025, 3:43:00 PM
