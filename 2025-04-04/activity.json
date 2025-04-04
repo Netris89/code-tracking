@@ -2,9 +2,9 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 536,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 31,
+      "totalLinesAdded": 657,
+      "totalLinesRemoved": 35,
+      "totalActiveTime": 38,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
           {
@@ -392,6 +392,48 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\insert.sql",
             "fileType": ".sql",
             "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-04T09:10:53.510Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-04T09:10:55.205Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-04T09:11:43.375Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "Back-end",
             "content": {
