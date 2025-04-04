@@ -2575,6 +2575,56 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs"
       ],
       "averageChangeSize": 48.5
+    },
+    "Front-end": {
+      "totalLinesAdded": 105,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs": [
+          {
+            "timestamp": "2025-04-04T14:01:17.751Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Program.cs": [
+          {
+            "timestamp": "2025-04-04T14:03:39.640Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 3
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\ProductList.razor.cs",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Program.cs"
+      ],
+      "averageChangeSize": 52.5
     }
   },
   "totalActiveTime": 4,
