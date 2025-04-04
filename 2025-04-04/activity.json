@@ -2,7 +2,7 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 1206,
+      "totalLinesAdded": 1320,
       "totalLinesRemoved": 432,
       "totalActiveTime": 75,
       "files": {
@@ -927,6 +927,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopConnectDbContext.cs": [
+          {
+            "timestamp": "2025-04-04T10:06:08.295Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopConnectDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]
