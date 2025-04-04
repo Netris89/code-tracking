@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2904                                          |
+| **Lines Added** (➕)   | 2983                                          |
 | **Lines Removed** (➖) | 585                                        |
-| **Net Change** (↕)    | 2319                |
-| **Active Time** (⌚)   | 217 minutes |
+| **Net Change** (↕)    | 2398                |
+| **Active Time** (⌚)   | 221 minutes |
 
 
 ## Modified Files
@@ -23,9 +23,10 @@
 - **.gitignore** (+403, -0)
 - **Backend.csproj** (+49, -0)
 - **Promotion.cs** (+119, -35)
-- **settings.json** (+269, -0)
+- **settings.json** (+270, -0)
 - **PromotionDAO.cs** (+56, -9)
 - **User.cs** (+80, -0)
+- **Product.cs** (+78, -0)
 
 ## Visualizations
 
@@ -34,9 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 1679
+".cs" : 1757
 ".sql" : 1047
-".json" : 306
+".json" : 307
 ".txt" : 5
 "unknown" : 403
 ".csproj" : 49
@@ -52,8 +53,8 @@ title Coding activity by hour (count of changes)
 "11h" : 37
 "12h" : 24
 "14h" : 44
-"15h" : 31
+"15h" : 33
 ```
 
 
-> **Last Updated:** 4/4/2025, 3:43:00 PM
+> **Last Updated:** 4/4/2025, 3:48:00 PM

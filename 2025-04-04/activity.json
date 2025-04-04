@@ -2,9 +2,9 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 2904,
+      "totalLinesAdded": 2983,
       "totalLinesRemoved": 585,
-      "totalActiveTime": 217,
+      "totalActiveTime": 221,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
           {
@@ -2200,6 +2200,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-04-04T13:45:58.180Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\PromotionDAO.cs": [
@@ -2329,6 +2343,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Product.cs": [
+          {
+            "timestamp": "2025-04-04T13:44:02.053Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Product.cs",
+            "fileType": ".cs",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ]
