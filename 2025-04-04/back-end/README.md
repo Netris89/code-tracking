@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1136                                          |
-| **Lines Removed** (➖) | 198                                        |
-| **Net Change** (↕)    | 938                |
+| **Lines Removed** (➖) | 426                                        |
+| **Net Change** (↕)    | 710                |
 | **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
 - **Program.cs** (+612, -26)
-- **insert.sql** (+513, -172)
+- **insert.sql** (+513, -400)
 - **settings.json** (+11, -0)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".cs" : 638
-".sql" : 685
+".sql" : 913
 ".json" : 11
 ```
 
@@ -34,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 4
 "10h" : 24
-"11h" : 11
+"11h" : 12
 ```
 
 
-> **Last Updated:** 4/4/2025, 11:17:16 AM
+> **Last Updated:** 4/4/2025, 11:22:15 AM

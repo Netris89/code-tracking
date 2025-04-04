@@ -3,7 +3,7 @@
   "projects": {
     "Back-end": {
       "totalLinesAdded": 1136,
-      "totalLinesRemoved": 198,
+      "totalLinesRemoved": 426,
       "totalActiveTime": 47,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
@@ -539,6 +539,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-04T09:21:45.285Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 228,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sql"
           }
         ],
