@@ -2,9 +2,9 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 2891,
-      "totalLinesRemoved": 576,
-      "totalActiveTime": 189,
+      "totalLinesAdded": 2893,
+      "totalLinesRemoved": 577,
+      "totalActiveTime": 198,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
           {
@@ -1799,6 +1799,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-04T13:18:52.394Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ProductDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-04T13:20:46.235Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ProductDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-04T13:22:34.548Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ProductDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ],
