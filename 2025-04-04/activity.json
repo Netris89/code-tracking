@@ -2,9 +2,9 @@
   "date": "2025-04-04",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 1168,
-      "totalLinesRemoved": 430,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 1204,
+      "totalLinesRemoved": 432,
+      "totalActiveTime": 70,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
           {
@@ -842,6 +842,64 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopDAO.cs": [
+          {
+            "timestamp": "2025-04-04T09:55:14.416Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-04T09:55:15.821Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-04T09:56:12.906Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-04T09:56:20.897Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Data\\ShopDAO.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ]
       },
