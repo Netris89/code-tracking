@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4052                                          |
-| **Lines Removed** (➖) | 590                                        |
-| **Net Change** (↕)    | 3462                |
-| **Active Time** (⌚)   | 254 minutes |
+| **Lines Added** (➕)   | 4198                                          |
+| **Lines Removed** (➖) | 591                                        |
+| **Net Change** (↕)    | 3607                |
+| **Active Time** (⌚)   | 264 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **TestUsers.json** (+25, -1)
 - **commands.sql** (+72, -62)
 - **ShopDAO.cs** (+104, -6)
-- **ShopConnectDbContext.cs** (+276, -27)
+- **ShopConnectDbContext.cs** (+422, -27)
 - **ProductDAO.cs** (+106, -12)
 - **.gitignore** (+403, -0)
 - **Backend.csproj** (+49, -0)
@@ -31,7 +31,7 @@
 - **PromotionControllerTests.cs** (+199, -1)
 - **PayementsControllerTests.cs** (+26, -0)
 - **AuthController.cs** (+225, -0)
-- **BasketProduct.cs** (+31, -4)
+- **BasketProduct.cs** (+31, -5)
 
 ## Visualizations
 
@@ -40,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 2831
+".cs" : 2978
 ".sql" : 1047
 ".json" : 307
 ".txt" : 5
@@ -60,8 +60,8 @@ title Coding activity by hour (count of changes)
 "14h" : 44
 "15h" : 47
 "18h" : 1
-"19h" : 16
+"19h" : 25
 ```
 
 
-> **Last Updated:** 4/4/2025, 7:05:27 PM
+> **Last Updated:** 4/4/2025, 7:10:27 PM
