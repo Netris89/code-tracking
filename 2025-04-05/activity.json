@@ -91,6 +91,113 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs"
       ],
       "averageChangeSize": 64
+    },
+    "Front-end": {
+      "totalLinesAdded": 155,
+      "totalLinesRemoved": 46,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs": [
+          {
+            "timestamp": "2025-04-05T00:21:11.264Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T00:21:12.263Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T00:21:14.544Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T00:21:21.775Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\auth-callback.razor": [
+          {
+            "timestamp": "2025-04-05T00:22:27.893Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\auth-callback.razor",
+            "fileType": ".razor",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-04-05T00:22:28.920Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\auth-callback.razor",
+            "fileType": ".razor",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 3,
+        "razor": 3
+      },
+      "changeFrequency": {
+        "2": 6
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\auth-callback.razor"
+      ],
+      "averageChangeSize": 33.5
     }
   },
   "totalActiveTime": 0,
