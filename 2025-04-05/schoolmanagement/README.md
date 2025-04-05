@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 382                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 363                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 439                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 419                |
+| **Active Time** (⌚)   | 54 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,9 @@
 - **Backend.csproj** (+23, -4)
 - **Program.cs** (+34, -0)
 - **SchoolManagement.Core.csproj** (+16, -0)
+- **Frontend.csproj** (+12, -1)
+- **Program.cs** (+36, -0)
+- **Routes.razor** (+9, -0)
 
 ## Visualizations
 
@@ -30,8 +33,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 20
-".cs" : 338
-".csproj" : 43
+".cs" : 374
+".csproj" : 56
+".razor" : 9
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +43,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 45
+"21h" : 52
 ```
 
 
-> **Last Updated:** 4/5/2025, 9:37:07 PM
+> **Last Updated:** 4/5/2025, 9:43:44 PM

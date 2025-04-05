@@ -500,9 +500,9 @@
       "averageChangeSize": 33.5
     },
     "SchoolManagement": {
-      "totalLinesAdded": 382,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 48,
+      "totalLinesAdded": 439,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 54,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json": [
           {
@@ -1152,6 +1152,110 @@
             },
             "duration": 1,
             "language": "csproj"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj": [
+          {
+            "timestamp": "2025-04-05T19:41:20.959Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csproj"
+          },
+          {
+            "timestamp": "2025-04-05T19:41:22.287Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csproj"
+          },
+          {
+            "timestamp": "2025-04-05T19:41:23.708Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Frontend.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csproj"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Program.cs": [
+          {
+            "timestamp": "2025-04-05T19:42:12.877Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Routes.razor": [
+          {
+            "timestamp": "2025-04-05T19:43:00.750Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Routes.razor",
+            "fileType": ".razor",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-04-05T19:43:01.783Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Routes.razor",
+            "fileType": ".razor",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-04-05T19:43:07.281Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Routes.razor",
+            "fileType": ".razor",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
           }
         ]
       },
