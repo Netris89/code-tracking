@@ -500,9 +500,9 @@
       "averageChangeSize": 33.5
     },
     "SchoolManagement": {
-      "totalLinesAdded": 486,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 63,
+      "totalLinesAdded": 511,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 73,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json": [
           {
@@ -976,6 +976,34 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T19:53:12.183Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\Student.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T19:53:35.225Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\Student.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\Teacher.cs": [
@@ -1047,6 +1075,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T19:50:31.474Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\Teacher.cs",
+            "fileType": ".cs",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T19:50:39.617Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\Teacher.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T19:53:07.169Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\Teacher.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ],
@@ -1329,6 +1399,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T19:52:02.435Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Models\\IUser.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ]
