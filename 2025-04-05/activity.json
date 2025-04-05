@@ -163,9 +163,9 @@
       "averageChangeSize": 64
     },
     "Front-end": {
-      "totalLinesAdded": 231,
-      "totalLinesRemoved": 89,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 314,
+      "totalLinesRemoved": 113,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs": [
           {
@@ -216,6 +216,48 @@
             "fileType": ".cs",
             "linesAdded": 0,
             "linesRemoved": 23,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T15:35:29.002Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T15:35:30.016Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T15:35:32.560Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Connection.razor.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Front-end",
             "content": {
               "added": [],
