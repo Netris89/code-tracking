@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-05",
+  "projects": {
+    "Back-end": {
+      "totalLinesAdded": 64,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs": [
+          {
+            "timestamp": "2025-04-05T00:03:20.243Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs",
+            "fileType": ".cs",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 0
+      },
+      "changeFrequency": {
+        "2": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs"
+      ],
+      "averageChangeSize": 64
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
