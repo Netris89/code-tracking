@@ -4,15 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 25                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 151                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 146                |
+| **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
 - **settings.json** (+10, -0)
-- **SchoolManagementDbContext.cs** (+15, -0)
+- **SchoolManagementDbContext.cs** (+16, -1)
+- **Course.cs** (+26, -0)
+- **Enrollment.cs** (+40, -1)
+- **ErrorViewModel.cs** (+9, -1)
+- **Student.cs** (+27, -1)
+- **Teacher.cs** (+23, -1)
 
 ## Visualizations
 
@@ -22,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 10
-".cs" : 15
+".cs" : 146
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 2
+"21h" : 17
 ```
 
 
-> **Last Updated:** 4/5/2025, 9:01:48 PM
+> **Last Updated:** 4/5/2025, 9:06:48 PM
