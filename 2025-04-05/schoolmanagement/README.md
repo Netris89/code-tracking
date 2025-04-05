@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 740                                          |
+| **Lines Added** (➕)   | 756                                          |
 | **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 713                |
-| **Active Time** (⌚)   | 102 minutes |
+| **Net Change** (↕)    | 729                |
+| **Active Time** (⌚)   | 104 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,8 @@
 - **User.cs** (+9, -0)
 - **IUser.cs** (+12, -0)
 - **SchoolManagement.db** (+64, -0)
+- **index.html** (+6, -0)
+- **launch.json** (+10, -0)
 
 ## Visualizations
 
@@ -35,11 +37,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 20
+".json" : 30
 ".cs" : 618
 ".csproj" : 56
 ".razor" : 9
 ".db" : 64
+".html" : 6
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,7 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "21h" : 69
 "22h" : 13
+"23h" : 3
 ```
 
 
-> **Last Updated:** 4/5/2025, 10:36:34 PM
+> **Last Updated:** 4/5/2025, 11:08:06 PM
