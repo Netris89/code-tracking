@@ -500,9 +500,9 @@
       "averageChangeSize": 33.5
     },
     "SchoolManagement": {
-      "totalLinesAdded": 735,
+      "totalLinesAdded": 740,
       "totalLinesRemoved": 27,
-      "totalActiveTime": 96,
+      "totalActiveTime": 102,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json": [
           {
@@ -649,6 +649,48 @@
           },
           {
             "timestamp": "2025-04-05T20:31:28.968Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T20:33:07.264Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T20:35:31.104Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-05T20:36:04.817Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs",
             "fileType": ".cs",
             "linesAdded": 1,
