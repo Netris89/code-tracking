@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 651                                          |
+| **Lines Added** (➕)   | 735                                          |
 | **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 624                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Net Change** (↕)    | 708                |
+| **Active Time** (⌚)   | 96 minutes |
 
 
 ## Modified Files
 - **settings.json** (+20, -0)
-- **SchoolManagementDbContext.cs** (+34, -2)
+- **SchoolManagementDbContext.cs** (+54, -2)
 - **Course.cs** (+80, -2)
 - **Enrollment.cs** (+121, -5)
 - **ErrorViewModel.cs** (+18, -2)
@@ -26,6 +26,7 @@
 - **Routes.razor** (+9, -0)
 - **User.cs** (+9, -0)
 - **IUser.cs** (+12, -0)
+- **SchoolManagement.db** (+64, -0)
 
 ## Visualizations
 
@@ -35,9 +36,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 20
-".cs" : 593
+".cs" : 613
 ".csproj" : 56
 ".razor" : 9
+".db" : 64
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +48,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 69
-"22h" : 6
+"22h" : 10
 ```
 
 
-> **Last Updated:** 4/5/2025, 10:26:34 PM
+> **Last Updated:** 4/5/2025, 10:31:34 PM
