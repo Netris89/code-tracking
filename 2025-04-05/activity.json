@@ -498,6 +498,57 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\auth-callback.razor"
       ],
       "averageChangeSize": 33.5
+    },
+    "SchoolManagement": {
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-04-05T19:00:31.081Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs": [
+          {
+            "timestamp": "2025-04-05T19:01:45.972Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "cs": 2
+      },
+      "changeFrequency": {
+        "21": 2
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Backend\\Data\\SchoolManagementDbContext.cs"
+      ],
+      "averageChangeSize": 12.5
     }
   },
   "totalActiveTime": 0,
