@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 511                                          |
-| **Lines Removed** (➖) | 24                                        |
-| **Net Change** (↕)    | 487                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Lines Added** (➕)   | 612                                          |
+| **Lines Removed** (➖) | 26                                        |
+| **Net Change** (↕)    | 586                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
 - **settings.json** (+20, -0)
 - **SchoolManagementDbContext.cs** (+34, -2)
-- **Course.cs** (+54, -2)
-- **Enrollment.cs** (+82, -4)
+- **Course.cs** (+80, -2)
+- **Enrollment.cs** (+121, -5)
 - **ErrorViewModel.cs** (+18, -2)
-- **Student.cs** (+82, -5)
+- **Student.cs** (+84, -5)
 - **Teacher.cs** (+70, -4)
 - **Backend.csproj** (+23, -4)
-- **Program.cs** (+34, -0)
+- **Program.cs** (+68, -1)
 - **SchoolManagement.Core.csproj** (+16, -0)
 - **Frontend.csproj** (+12, -1)
 - **Program.cs** (+36, -0)
@@ -35,7 +35,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 20
-".cs" : 450
+".cs" : 553
 ".csproj" : 56
 ".razor" : 9
 ```
@@ -45,8 +45,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 63
+"21h" : 69
 ```
 
 
-> **Last Updated:** 4/5/2025, 9:53:44 PM
+> **Last Updated:** 4/5/2025, 9:58:44 PM
