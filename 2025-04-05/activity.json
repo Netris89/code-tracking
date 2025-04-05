@@ -500,9 +500,9 @@
       "averageChangeSize": 33.5
     },
     "SchoolManagement": {
-      "totalLinesAdded": 756,
-      "totalLinesRemoved": 27,
-      "totalActiveTime": 104,
+      "totalLinesAdded": 767,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 108,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\.vscode\\settings.json": [
           {
@@ -1728,6 +1728,80 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Home.razor": [
+          {
+            "timestamp": "2025-04-05T21:14:19.845Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Home.razor",
+            "fileType": ".razor",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-04-05T21:14:22.987Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Home.razor",
+            "fileType": ".razor",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-04-05T21:14:29.813Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Home.razor",
+            "fileType": ".razor",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
+          },
+          {
+            "timestamp": "2025-04-05T21:14:32.291Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Home.razor",
+            "fileType": ".razor",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Component.razor": [
+          {
+            "timestamp": "2025-04-05T21:14:35.831Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SchoolManagement\\Frontend\\Components\\Pages\\Component.razor",
+            "fileType": ".razor",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SchoolManagement",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "razor"
           }
         ]
       },
