@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 906                                          |
-| **Lines Removed** (➖) | 41                                        |
-| **Net Change** (↕)    | 865                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 2232                                          |
+| **Lines Removed** (➖) | 62                                        |
+| **Net Change** (↕)    | 2170                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,13 @@
 - **ApiResponse.cs** (+5, -0)
 - **ApiResponse.cs** (+34, -1)
 - **ProductControllerTests.cs** (+197, -0)
-- **AuthControllerTests.cs** (+442, -5)
+- **AuthControllerTests.cs** (+444, -5)
+- **ShopConnectDbContextModelSnapshot.cs** (+610, -20)
+- **20250404084352_ShopConnectMigration.cs** (+495, -1)
+- **20250404123734_AddPromotionProductRelationship.cs** (+85, -0)
+- **20250404130458_CreateBasketProductJoinTable.cs** (+84, -0)
+- **20250404132716_AddReviewUserRelation.cs** (+25, -0)
+- **20250404134438_InitializeReviewsList.cs** (+25, -0)
 
 ## Visualizations
 
@@ -25,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 947
+".cs" : 2294
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 34
-"19h" : 11
+"19h" : 34
 ```
 
 
-> **Last Updated:** 4/6/2025, 7:21:32 PM
+> **Last Updated:** 4/6/2025, 7:26:32 PM
