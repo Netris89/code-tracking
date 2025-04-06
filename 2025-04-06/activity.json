@@ -1265,7 +1265,7 @@
       "averageChangeSize": 75
     },
     "Back-end": {
-      "totalLinesAdded": 4171,
+      "totalLinesAdded": 4235,
       "totalLinesRemoved": 89,
       "totalActiveTime": 152,
       "files": {
@@ -1690,6 +1690,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-06T17:44:15.448Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Middleware\\SecurityHeadersMiddleware.cs",
+            "fileType": ".cs",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],
