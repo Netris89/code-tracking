@@ -2,9 +2,9 @@
   "date": "2025-04-06",
   "projects": {
     "echo": {
-      "totalLinesAdded": 999,
-      "totalLinesRemoved": 152,
-      "totalActiveTime": 155,
+      "totalLinesAdded": 1123,
+      "totalLinesRemoved": 154,
+      "totalActiveTime": 163,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp": [
           {
@@ -153,6 +153,20 @@
             "fileType": ".cpp",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-06T20:04:52.222Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\src\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 69,
+            "linesRemoved": 0,
             "projectName": "echo",
             "content": {
               "added": [],
@@ -491,6 +505,34 @@
             "fileType": ".hpp",
             "linesAdded": 9,
             "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-06T20:03:05.279Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\Inc\\Parser.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-06T20:03:07.113Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\Inc\\Parser.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "echo",
             "content": {
               "added": [],
@@ -1582,11 +1624,39 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-06T20:07:04.365Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
           {
             "timestamp": "2025-04-05T22:24:02.749Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-04-06T20:03:17.858Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
             "fileType": "unknown",
             "linesAdded": 51,
