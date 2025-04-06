@@ -1265,9 +1265,9 @@
       "averageChangeSize": 75
     },
     "Back-end": {
-      "totalLinesAdded": 3840,
-      "totalLinesRemoved": 69,
-      "totalActiveTime": 120,
+      "totalLinesAdded": 3887,
+      "totalLinesRemoved": 71,
+      "totalActiveTime": 127,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs": [
           {
@@ -1646,6 +1646,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-06T17:32:43.418Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs",
+            "fileType": ".cs",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-06T17:32:44.950Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ],
@@ -2756,6 +2784,36 @@
             "fileType": ".cs",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\ApplicationRole.cs": [
+          {
+            "timestamp": "2025-04-06T17:35:12.295Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\ApplicationRole.cs",
+            "fileType": ".cs",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-06T17:35:13.314Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\ApplicationRole.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Back-end",
             "content": {
               "added": [],
