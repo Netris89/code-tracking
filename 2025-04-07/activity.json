@@ -2,7 +2,7 @@
   "date": "2025-04-07",
   "projects": {
     "echo": {
-      "totalLinesAdded": 517,
+      "totalLinesAdded": 568,
       "totalLinesRemoved": 22,
       "totalActiveTime": 32,
       "files": {
@@ -362,6 +362,22 @@
             },
             "duration": 1,
             "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore": [
+          {
+            "timestamp": "2025-04-07T13:01:22.971Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
