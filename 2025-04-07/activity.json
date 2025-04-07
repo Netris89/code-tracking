@@ -2,9 +2,9 @@
   "date": "2025-04-07",
   "projects": {
     "echo": {
-      "totalLinesAdded": 899,
-      "totalLinesRemoved": 107,
-      "totalActiveTime": 119,
+      "totalLinesAdded": 995,
+      "totalLinesRemoved": 110,
+      "totalActiveTime": 126,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt": [
           {
@@ -307,6 +307,76 @@
             "fileType": ".txt",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-07T13:55:36.248Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-07T13:55:37.516Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-07T13:56:05.609Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-07T13:56:13.635Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-07T13:56:13.758Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "echo",
             "content": {
               "added": [],
@@ -1308,6 +1378,22 @@
             },
             "duration": 1,
             "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-04-07T13:54:17.005Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
