@@ -4,19 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 833                                          |
-| **Lines Removed** (➖) | 94                                        |
-| **Net Change** (↕)    | 739                |
-| **Active Time** (⌚)   | 90 minutes |
+| **Lines Added** (➕)   | 858                                          |
+| **Lines Removed** (➖) | 98                                        |
+| **Net Change** (↕)    | 760                |
+| **Active Time** (⌚)   | 100 minutes |
 
 
 ## Modified Files
 - **CMakeLists.txt** (+92, -22)
 - **settings.json** (+269, -0)
 - **main.cpp** (+141, -4)
-- **Parser.cpp** (+269, -68)
+- **Parser.cpp** (+274, -72)
 - **.gitignore** (+51, -0)
 - **Parser.hpp** (+11, -0)
+- **launch.json** (+20, -0)
 
 ## Visualizations
 
@@ -26,8 +27,8 @@
 pie showData
 title Lines changed by file type
 ".txt" : 114
-".json" : 269
-".cpp" : 482
+".json" : 289
+".cpp" : 491
 "unknown" : 51
 ".hpp" : 11
 ```
@@ -39,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 10
 "14h" : 15
-"15h" : 49
+"15h" : 58
 ```
 
 
-> **Last Updated:** 4/7/2025, 3:38:58 PM
+> **Last Updated:** 4/7/2025, 3:43:58 PM
