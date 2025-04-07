@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1228                                          |
-| **Lines Removed** (➖) | 125                                        |
-| **Net Change** (↕)    | 1103                |
-| **Active Time** (⌚)   | 154 minutes |
+| **Lines Added** (➕)   | 1282                                          |
+| **Lines Removed** (➖) | 129                                        |
+| **Net Change** (↕)    | 1153                |
+| **Active Time** (⌚)   | 161 minutes |
 
 
 ## Modified Files
-- **CMakeLists.txt** (+213, -34)
+- **CMakeLists.txt** (+267, -37)
 - **settings.json** (+269, -0)
 - **main.cpp** (+141, -4)
 - **Parser.cpp** (+394, -72)
@@ -20,7 +20,7 @@
 - **launch.json** (+20, -0)
 - **test_parser.cpp** (+39, -9)
 - **tasks.json** (+38, -0)
-- **testParser.cpp** (+52, -6)
+- **testParser.cpp** (+52, -7)
 
 ## Visualizations
 
@@ -29,9 +29,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 247
+".txt" : 304
 ".json" : 327
-".cpp" : 717
+".cpp" : 718
 "unknown" : 51
 ".hpp" : 11
 ```
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "14h" : 15
 "15h" : 73
 "20h" : 14
-"21h" : 10
+"21h" : 13
 ```
 
 
-> **Last Updated:** 4/7/2025, 9:26:21 PM
+> **Last Updated:** 4/7/2025, 9:31:21 PM
