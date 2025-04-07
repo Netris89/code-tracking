@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1510                                          |
+| **Lines Added** (➕)   | 1526                                          |
 | **Lines Removed** (➖) | 245                                        |
-| **Net Change** (↕)    | 1265                |
-| **Active Time** (⌚)   | 207 minutes |
+| **Net Change** (↕)    | 1281                |
+| **Active Time** (⌚)   | 211 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **Parser.cpp** (+394, -72)
 - **.gitignore** (+51, -0)
 - **Parser.hpp** (+11, -0)
-- **launch.json** (+20, -0)
+- **launch.json** (+36, -0)
 - **test_parser.cpp** (+39, -9)
 - **tasks.json** (+38, -0)
 - **testParser.cpp** (+97, -7)
@@ -30,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 603
-".json" : 327
+".json" : 343
 ".cpp" : 763
 "unknown" : 51
 ".hpp" : 11
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "15h" : 73
 "20h" : 14
 "21h" : 15
-"23h" : 36
+"23h" : 37
 ```
 
 
-> **Last Updated:** 4/7/2025, 11:31:53 PM
+> **Last Updated:** 4/7/2025, 11:36:53 PM
