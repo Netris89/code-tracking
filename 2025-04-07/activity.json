@@ -2,9 +2,9 @@
   "date": "2025-04-07",
   "projects": {
     "echo": {
-      "totalLinesAdded": 1364,
+      "totalLinesAdded": 1415,
       "totalLinesRemoved": 144,
-      "totalActiveTime": 164,
+      "totalActiveTime": 169,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt": [
           {
@@ -621,6 +621,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-07T21:06:55.552Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "txt"
           }
         ],
@@ -1809,6 +1823,20 @@
             "fileType": ".cpp",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-07T21:07:59.490Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\test\\testParser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 45,
+            "linesRemoved": 0,
             "projectName": "echo",
             "content": {
               "added": [],
