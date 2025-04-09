@@ -298,6 +298,130 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\.vscode\\launch.json"
       ],
       "averageChangeSize": 10
+    },
+    "Modules": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 8,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\main.cpp": [
+          {
+            "timestamp": "2025-04-09T20:42:50.954Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-09T20:42:52.914Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-09T20:43:38.125Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\module.cpp": [
+          {
+            "timestamp": "2025-04-09T20:43:13.217Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\module.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-09T20:43:14.261Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\module.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-09T20:43:59.000Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-09T20:46:04.741Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 4,
+        "txt": 4
+      },
+      "changeFrequency": {
+        "22": 8
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\main.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\module.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt"
+      ],
+      "averageChangeSize": 5.571428571428571
     }
   },
   "totalActiveTime": 3,
