@@ -2,7 +2,7 @@
   "date": "2025-04-12",
   "projects": {
     "Basic": {
-      "totalLinesAdded": 144,
+      "totalLinesAdded": 415,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -35,6 +35,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-12T21:01:21.130Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 271,
+            "linesRemoved": 0,
+            "projectName": "Basic",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
