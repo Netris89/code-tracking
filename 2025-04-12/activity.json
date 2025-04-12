@@ -1,0 +1,66 @@
+{
+  "date": "2025-04-12",
+  "projects": {
+    "Basic": {
+      "totalLinesAdded": 144,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Basic\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-12T20:52:28.574Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Basic\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "Basic",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Basic\\.vscode\\tasks.json": [
+          {
+            "timestamp": "2025-04-12T20:54:30.163Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Basic\\.vscode\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "Basic",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0,
+        "json": 3
+      },
+      "changeFrequency": {
+        "22": 3
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Basic\\CMakeLists.txt",
+        "c:\\Users\\ludov\\Documents\\Code\\JUCE\\Basic\\.vscode\\tasks.json"
+      ],
+      "averageChangeSize": 72
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "txt"
+  ]
+}
