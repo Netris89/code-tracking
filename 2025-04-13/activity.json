@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-13",
+  "projects": {
+    "Back-end": {
+      "totalLinesAdded": 199,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\ProductControllerTests.cs": [
+          {
+            "timestamp": "2025-04-13T16:30:23.031Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\ProductControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\ProductControllerTests.cs"
+      ],
+      "averageChangeSize": 199
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}
