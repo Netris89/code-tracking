@@ -2,7 +2,7 @@
   "date": "2025-04-13",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 199,
+      "totalLinesAdded": 200,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,20 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\ProductControllerTests.cs",
             "fileType": ".cs",
             "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-13T16:45:26.987Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Tests\\ProductControllerTests.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Back-end",
             "content": {
