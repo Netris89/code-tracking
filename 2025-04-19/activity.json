@@ -155,9 +155,9 @@
       "averageChangeSize": 27.4
     },
     "Parse": {
-      "totalLinesAdded": 224,
-      "totalLinesRemoved": 49,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 256,
+      "totalLinesRemoved": 51,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json": [
           {
@@ -355,6 +355,150 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp": [
+          {
+            "timestamp": "2025-04-19T20:15:57.492Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:16:03.780Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:16:38.365Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:16:50.682Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:17:27.886Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:17:29.922Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:17:45.261Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:18:48.192Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-19T20:19:39.476Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-19T20:18:09.125Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Parse\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
