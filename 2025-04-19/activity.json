@@ -153,6 +153,207 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\launch.json"
       ],
       "averageChangeSize": 27.4
+    },
+    "Parse": {
+      "totalLinesAdded": 223,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 13,
+      "files": {
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json": [
+          {
+            "timestamp": "2025-04-19T20:05:51.529Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 212,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:06:19.937Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:06:42.460Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:07:19.694Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:08:23.458Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:08:33.275Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:08:36.846Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:08:43.265Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:09:04.749Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:09:07.126Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:09:26.143Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:09:41.403Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:09:47.710Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 13
+      },
+      "changeFrequency": {
+        "22": 13
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json"
+      ],
+      "averageChangeSize": 20.923076923076923
     }
   },
   "totalActiveTime": 7,
