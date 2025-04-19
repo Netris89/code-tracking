@@ -155,9 +155,9 @@
       "averageChangeSize": 27.4
     },
     "Parse": {
-      "totalLinesAdded": 223,
+      "totalLinesAdded": 224,
       "totalLinesRemoved": 49,
-      "totalActiveTime": 13,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json": [
           {
@@ -330,6 +330,20 @@
           },
           {
             "timestamp": "2025-04-19T20:09:47.710Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Parse",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-19T20:10:21.964Z",
             "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\tasks.json",
             "fileType": ".json",
             "linesAdded": 1,
