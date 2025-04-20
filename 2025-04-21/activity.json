@@ -1,0 +1,113 @@
+{
+  "date": "2025-04-21",
+  "projects": {
+    "cp": {
+      "totalLinesAdded": 78,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.gitignore": [
+          {
+            "timestamp": "2025-04-20T22:03:40.793Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-04-20T22:03:42.311Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-04-20T22:03:45.149Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-20T22:04:00.124Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.vscode\\launch.json": [
+          {
+            "timestamp": "2025-04-20T22:04:21.854Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 2,
+        "txt": 1,
+        "json": 1
+      },
+      "changeFrequency": {
+        "0": 4
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.gitignore",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\CMakeLists.txt",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 15.6
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "unknown",
+    "txt",
+    "json"
+  ]
+}
