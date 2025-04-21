@@ -97,6 +97,137 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\cp\\.vscode\\launch.json"
       ],
       "averageChangeSize": 15.6
+    },
+    "echo": {
+      "totalLinesAdded": 294,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp": [
+          {
+            "timestamp": "2025-04-21T16:43:55.703Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\launch.json": [
+          {
+            "timestamp": "2025-04-21T16:44:33.041Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\include\\Parser.hpp": [
+          {
+            "timestamp": "2025-04-21T16:45:10.441Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\include\\Parser.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp": [
+          {
+            "timestamp": "2025-04-21T16:45:20.935Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-21T16:47:13.243Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-21T16:47:25.192Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\test\\testParser.cpp": [
+          {
+            "timestamp": "2025-04-21T16:45:45.035Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\test\\testParser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 5,
+        "json": 1,
+        "hpp": 1
+      },
+      "changeFrequency": {
+        "18": 7
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\.vscode\\launch.json",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\include\\Parser.hpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\test\\testParser.cpp"
+      ],
+      "averageChangeSize": 42.142857142857146
     }
   },
   "totalActiveTime": 4,
