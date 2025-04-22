@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "echo": {
-      "totalLinesAdded": 62,
+      "totalLinesAdded": 288,
       "totalLinesRemoved": 82,
-      "totalActiveTime": 21,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\include\\Parser.hpp": [
           {
@@ -230,6 +230,52 @@
             },
             "duration": 2,
             "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-22T18:11:24.815Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\include\\Parser.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "hpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp": [
+          {
+            "timestamp": "2025-04-22T18:09:11.384Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp": [
+          {
+            "timestamp": "2025-04-22T18:09:26.451Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
           }
         ]
       },
