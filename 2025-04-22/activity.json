@@ -2,7 +2,7 @@
   "date": "2025-04-22",
   "projects": {
     "echo": {
-      "totalLinesAdded": 288,
+      "totalLinesAdded": 358,
       "totalLinesRemoved": 82,
       "totalActiveTime": 24,
       "files": {
@@ -243,6 +243,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-22T18:13:19.382Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\include\\Parser.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "hpp"
           }
         ],
