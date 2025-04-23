@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 453                                          |
-| **Lines Removed** (➖) | 89                                        |
-| **Net Change** (↕)    | 364                |
-| **Active Time** (⌚)   | 147 minutes |
+| **Lines Added** (➕)   | 457                                          |
+| **Lines Removed** (➖) | 101                                        |
+| **Net Change** (↕)    | 356                |
+| **Active Time** (⌚)   | 158 minutes |
 
 
 ## Modified Files
-- **Parser.cpp** (+322, -88)
+- **Parser.cpp** (+326, -100)
 - **launch.json** (+32, -0)
 - **Parser.hpp** (+99, -1)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cpp" : 410
+".cpp" : 426
 ".json" : 32
 ".hpp" : 100
 ```
@@ -35,8 +35,8 @@ title Coding activity by hour (count of changes)
 "00h" : 18
 "21h" : 39
 "22h" : 44
-"23h" : 15
+"23h" : 23
 ```
 
 
-> **Last Updated:** 4/23/2025, 11:20:19 PM
+> **Last Updated:** 4/23/2025, 11:25:19 PM
