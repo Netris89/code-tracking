@@ -476,9 +476,9 @@
       "averageChangeSize": 74
     },
     "echo": {
-      "totalLinesAdded": 382,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 70,
+      "totalLinesAdded": 387,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 81,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp": [
           {
@@ -1089,6 +1089,90 @@
             "fileType": ".cpp",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-24T19:45:40.242Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-24T19:45:45.605Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-24T19:45:49.814Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-24T19:45:53.794Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-24T19:47:16.952Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-24T19:47:26.637Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "echo",
             "content": {
               "added": [],
