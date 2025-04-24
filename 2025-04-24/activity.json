@@ -441,6 +441,39 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs"
       ],
       "averageChangeSize": 69.33333333333333
+    },
+    "Front-end": {
+      "totalLinesAdded": 74,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Basket.razor": [
+          {
+            "timestamp": "2025-04-24T17:58:27.499Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Basket.razor",
+            "fileType": ".razor",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "Front-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "razor"
+          }
+        ]
+      },
+      "languageStats": {
+        "razor": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Front-end\\front-end\\Components\\Pages\\Basket.razor"
+      ],
+      "averageChangeSize": 74
     }
   },
   "totalActiveTime": 2,
