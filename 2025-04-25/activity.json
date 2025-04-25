@@ -3,8 +3,8 @@
   "projects": {
     "echo": {
       "totalLinesAdded": 295,
-      "totalLinesRemoved": 67,
-      "totalActiveTime": 43,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp": [
           {
@@ -467,6 +467,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-25T18:40:28.728Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "cpp"
           }
         ],
