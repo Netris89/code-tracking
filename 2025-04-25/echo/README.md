@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 296                                          |
-| **Lines Removed** (➖) | 69                                        |
-| **Net Change** (↕)    | 227                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 395                                          |
+| **Lines Removed** (➖) | 71                                        |
+| **Net Change** (↕)    | 324                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
 - **Parser.cpp** (+197, -68)
-- **Parser.hpp** (+99, -1)
+- **Parser.hpp** (+198, -3)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".cpp" : 265
-".hpp" : 100
+".hpp" : 201
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +32,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 5
 "20h" : 32
+"22h" : 4
 ```
 
 
-> **Last Updated:** 4/25/2025, 8:50:13 PM
+> **Last Updated:** 4/25/2025, 10:36:33 PM
