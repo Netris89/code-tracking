@@ -1,0 +1,75 @@
+{
+  "date": "2025-04-25",
+  "projects": {
+    "echo": {
+      "totalLinesAdded": 157,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp": [
+          {
+            "timestamp": "2025-04-25T17:50:29.384Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-25T17:50:31.166Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-25T17:50:36.424Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "echo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 2
+      },
+      "changeFrequency": {
+        "19": 2
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp"
+      ],
+      "averageChangeSize": 53.333333333333336
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "cpp"
+  ]
+}
