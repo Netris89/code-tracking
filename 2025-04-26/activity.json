@@ -599,6 +599,211 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\echo\\source\\Parser.cpp"
       ],
       "averageChangeSize": 26.6
+    },
+    "true": {
+      "totalLinesAdded": 36,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 14,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp": [
+          {
+            "timestamp": "2025-04-26T15:25:01.144Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:25:09.284Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:25:21.146Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:25:25.798Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:25:31.171Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:25:33.634Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:25:34.713Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:28:06.849Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:28:11.090Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:28:18.146Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:28:34.130Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-26T15:29:29.398Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-26T15:27:01.621Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 12,
+        "txt": 2
+      },
+      "changeFrequency": {
+        "17": 14
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\source\\main.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\CMakeLists.txt"
+      ],
+      "averageChangeSize": 3.3076923076923075
     }
   },
   "totalActiveTime": 5,
