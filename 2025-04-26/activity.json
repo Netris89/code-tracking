@@ -862,6 +862,57 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\true\\CMakeLists.txt"
       ],
       "averageChangeSize": 3.3076923076923075
+    },
+    "false": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\false\\source\\main.cpp": [
+          {
+            "timestamp": "2025-04-26T15:53:55.478Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\false\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "false",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\false\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-04-26T15:54:29.618Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\false\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "false",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 0,
+        "txt": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\false\\source\\main.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\false\\CMakeLists.txt"
+      ],
+      "averageChangeSize": 16.5
     }
   },
   "totalActiveTime": 5,
