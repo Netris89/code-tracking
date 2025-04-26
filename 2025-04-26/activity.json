@@ -601,7 +601,7 @@
       "averageChangeSize": 26.6
     },
     "true": {
-      "totalLinesAdded": 40,
+      "totalLinesAdded": 313,
       "totalLinesRemoved": 7,
       "totalActiveTime": 17,
       "files": {
@@ -831,6 +831,22 @@
             },
             "duration": 2,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-26T15:39:11.462Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "true",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
