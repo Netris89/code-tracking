@@ -2,9 +2,9 @@
   "date": "2025-04-27",
   "projects": {
     "date": {
-      "totalLinesAdded": 119,
+      "totalLinesAdded": 133,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 20,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp": [
           {
@@ -218,6 +218,162 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp": [
+          {
+            "timestamp": "2025-04-27T20:34:16.738Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:34:30.492Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:34:32.056Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:35:02.953Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:35:21.241Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:35:37.792Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:35:44.694Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:35:48.572Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:37:33.581Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:37:37.434Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-27T20:37:41.957Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\day.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
           }
         ]
       },
