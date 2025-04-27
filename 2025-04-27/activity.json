@@ -235,9 +235,9 @@
       "averageChangeSize": 11.333333333333334
     },
     "Back-end": {
-      "totalLinesAdded": 312,
+      "totalLinesAdded": 585,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 22,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Program.cs": [
           {
@@ -521,6 +521,36 @@
             },
             "duration": 5,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-27T18:15:12.106Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 272,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-27T18:15:41.904Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
