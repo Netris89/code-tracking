@@ -566,9 +566,9 @@
       "averageChangeSize": 103.5
     },
     "Utilities": {
-      "totalLinesAdded": 11,
+      "totalLinesAdded": 30,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\CMakeLists.txt": [
           {
@@ -654,6 +654,50 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-27T18:58:04.889Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Utilities",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitignore": [
+          {
+            "timestamp": "2025-04-27T18:59:06.200Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Utilities",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-04-27T18:59:37.761Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Utilities",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
