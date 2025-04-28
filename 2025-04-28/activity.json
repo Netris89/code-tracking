@@ -2,7 +2,7 @@
   "date": "2025-04-28",
   "projects": {
     "date": {
-      "totalLinesAdded": 329,
+      "totalLinesAdded": 392,
       "totalLinesRemoved": 5,
       "totalActiveTime": 41,
       "files": {
@@ -243,6 +243,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-04-28T18:50:32.628Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cpp"
           }
         ],
