@@ -485,6 +485,67 @@
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp"
       ],
       "averageChangeSize": 26
+    },
+    "Back-end": {
+      "totalLinesAdded": 71,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Shop.cs": [
+          {
+            "timestamp": "2025-04-28T17:46:27.899Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Shop.cs",
+            "fileType": ".cs",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-28T17:46:28.928Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Shop.cs",
+            "fileType": ".cs",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-28T17:46:31.449Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Shop.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 2
+      },
+      "changeFrequency": {
+        "19": 2
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Shop.cs"
+      ],
+      "averageChangeSize": 25.666666666666668
     }
   },
   "totalActiveTime": 1,
