@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 449                                          |
+| **Lines Added** (➕)   | 584                                          |
 | **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 442                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Net Change** (↕)    | 577                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **Product.cs** (+83, -0)
 - **deploy.yml** (+63, -1)
 - **Backend.csproj** (+48, -0)
+- **ShopConnectDbContext.cs** (+135, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 344
+".cs" : 479
 ".yml" : 64
 ".csproj" : 48
 ```
@@ -36,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "18h" : 22
-"19h" : 10
+"19h" : 11
 ```
 
 
-> **Last Updated:** 4/29/2025, 7:30:45 PM
+> **Last Updated:** 4/29/2025, 7:35:45 PM
