@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 1193,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 66,
+      "totalLinesAdded": 1438,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 73,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs": [
           {
@@ -748,6 +748,50 @@
             },
             "duration": 2,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\ShopConnect.db": [
+          {
+            "timestamp": "2025-04-29T17:54:15.032Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\ShopConnect.db",
+            "fileType": ".db",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "db"
+          },
+          {
+            "timestamp": "2025-04-29T17:54:15.189Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\ShopConnect.db",
+            "fileType": ".db",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "db"
+          },
+          {
+            "timestamp": "2025-04-29T17:54:36.899Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\ShopConnect.db",
+            "fileType": ".db",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "db"
           }
         ]
       },
