@@ -807,9 +807,9 @@
       "averageChangeSize": 13.571428571428571
     },
     "date": {
-      "totalLinesAdded": 192,
-      "totalLinesRemoved": 88,
-      "totalActiveTime": 39,
+      "totalLinesAdded": 221,
+      "totalLinesRemoved": 105,
+      "totalActiveTime": 50,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp": [
           {
@@ -1070,6 +1070,62 @@
             "fileType": ".hpp",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:37.026Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:51.949Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:56.591Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-04-29T20:01:09.987Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "date",
             "content": {
               "added": [],
@@ -1338,6 +1394,76 @@
             "fileType": ".json",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-29T19:59:16.016Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\snippets\\cpp.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:29.281Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\snippets\\cpp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:31.778Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\snippets\\cpp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:47.154Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\snippets\\cpp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-29T20:00:50.300Z",
+            "fileName": "c:\\Users\\ludov\\AppData\\Roaming\\Code\\User\\snippets\\cpp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "date",
             "content": {
               "added": [],
