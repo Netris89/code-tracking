@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 601,
+      "totalLinesAdded": 1193,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 59,
+      "totalActiveTime": 66,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs": [
           {
@@ -460,6 +460,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-04-29T17:48:53.919Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Models\\Product.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\.github\\workflows\\deploy.yml": [
@@ -717,6 +731,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Migrations\\ShopConnectDbContextModelSnapshot.cs": [
+          {
+            "timestamp": "2025-04-29T17:50:05.419Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Migrations\\ShopConnectDbContextModelSnapshot.cs",
+            "fileType": ".cs",
+            "linesAdded": 590,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ]
