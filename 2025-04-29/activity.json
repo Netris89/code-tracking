@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "Back-end": {
-      "totalLinesAdded": 338,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 401,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\Backend\\Controllers\\ProductController.cs": [
           {
@@ -418,6 +418,36 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\.github\\workflows\\deploy.yml": [
+          {
+            "timestamp": "2025-04-29T17:13:51.179Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\.github\\workflows\\deploy.yml",
+            "fileType": ".yml",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-04-29T17:13:52.197Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\Projet-integration\\Back-end\\.github\\workflows\\deploy.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Back-end",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
