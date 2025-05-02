@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "date": {
-      "totalLinesAdded": 261,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 31,
+      "totalLinesAdded": 267,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\day.hpp": [
           {
@@ -247,6 +247,118 @@
               "removed": []
             },
             "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:05:50.603Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:06:10.908Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:06:43.741Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:06:49.801Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:07:00.558Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:07:57.541Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:08:23.538Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-02T19:08:40.602Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cpp"
           }
         ],
