@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "date": {
-      "totalLinesAdded": 75,
+      "totalLinesAdded": 77,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 12,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\day.hpp": [
           {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-05-02T18:55:24.329Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\day.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "hpp"
           }
         ],
