@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 603                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 573                |
-| **Active Time** (⌚)   | 113 minutes |
+| **Lines Added** (➕)   | 611                                          |
+| **Lines Removed** (➖) | 35                                        |
+| **Net Change** (↕)    | 576                |
+| **Active Time** (⌚)   | 123 minutes |
 
 
 ## Modified Files
 - **day.hpp** (+62, -0)
 - **month.hpp** (+82, -0)
-- **main.cpp** (+136, -2)
+- **main.cpp** (+138, -2)
 - **printer.hpp** (+38, -0)
-- **printer.cpp** (+87, -4)
+- **printer.cpp** (+93, -9)
 - **clock.hpp** (+40, -4)
 - **formatter.hpp** (+17, -1)
 - **formatter.cpp** (+13, -1)
@@ -30,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".hpp" : 244
-".cpp" : 372
+".cpp" : 385
 ".json" : 17
 ```
 
@@ -41,9 +41,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 40
 "15h" : 51
-"16h" : 2
+"16h" : 12
 "23h" : 6
 ```
 
 
-> **Last Updated:** 5/3/2025, 4:00:22 PM
+> **Last Updated:** 5/3/2025, 4:05:22 PM
