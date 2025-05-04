@@ -4,17 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 216                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 216                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 334                                          |
+| **Lines Removed** (➖) | 33                                        |
+| **Net Change** (↕)    | 301                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
-- **formatter.hpp** (+43, -0)
+- **formatter.hpp** (+43, -29)
 - **formatter.cpp** (+71, -0)
 - **format.hpp** (+14, -0)
-- **main.cpp** (+88, -0)
+- **main.cpp** (+90, -2)
+- **parser.cpp** (+72, -1)
+- **parser.hpp** (+44, -1)
 
 ## Visualizations
 
@@ -23,8 +25,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".hpp" : 57
-".cpp" : 159
+".hpp" : 131
+".cpp" : 236
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 7
+"12h" : 18
 ```
 
 
-> **Last Updated:** 5/4/2025, 12:55:11 PM
+> **Last Updated:** 5/4/2025, 1:00:11 PM
