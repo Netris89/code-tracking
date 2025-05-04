@@ -1,0 +1,142 @@
+{
+  "date": "2025-05-04",
+  "projects": {
+    "date": {
+      "totalLinesAdded": 216,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp": [
+          {
+            "timestamp": "2025-05-04T10:50:35.506Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-05-04T10:51:19.852Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\formatter.cpp": [
+          {
+            "timestamp": "2025-05-04T10:50:46.497Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\formatter.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-04T10:51:41.616Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\formatter.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\format.hpp": [
+          {
+            "timestamp": "2025-05-04T10:52:23.654Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\format.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-05-04T10:52:28.250Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\format.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "hpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp": [
+          {
+            "timestamp": "2025-05-04T10:53:07.212Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "hpp": 3,
+        "cpp": 3
+      },
+      "changeFrequency": {
+        "12": 6
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\formatter.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\format.hpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\source\\main.cpp"
+      ],
+      "averageChangeSize": 30.857142857142858
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "hpp",
+    "cpp"
+  ]
+}
