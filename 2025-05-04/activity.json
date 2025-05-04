@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "date": {
-      "totalLinesAdded": 558,
+      "totalLinesAdded": 670,
       "totalLinesRemoved": 42,
-      "totalActiveTime": 57,
+      "totalActiveTime": 60,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp": [
           {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "hpp"
+          },
+          {
+            "timestamp": "2025-05-04T11:17:31.488Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\formatter.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "hpp"
           }
         ],
@@ -682,6 +696,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\day.hpp": [
+          {
+            "timestamp": "2025-05-04T11:16:34.433Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Utilities\\date\\include\\day.hpp",
+            "fileType": ".hpp",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "date",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "hpp"
           }
         ]
       },
