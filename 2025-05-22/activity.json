@@ -1,0 +1,181 @@
+{
+  "date": "2025-05-22",
+  "projects": {
+    "Modules": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 11,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\main.cpp": [
+          {
+            "timestamp": "2025-05-22T16:43:35.693Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:43:40.128Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:47:28.773Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:47:32.861Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\main.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt": [
+          {
+            "timestamp": "2025-05-22T16:45:06.367Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt",
+            "fileType": ".txt",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp": [
+          {
+            "timestamp": "2025-05-22T16:46:54.603Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:46:55.644Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:47:14.701Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:47:18.224Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          },
+          {
+            "timestamp": "2025-05-22T16:47:21.013Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Modules",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cpp"
+          }
+        ]
+      },
+      "languageStats": {
+        "cpp": 9,
+        "txt": 2
+      },
+      "changeFrequency": {
+        "18": 11
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\shapes.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\source\\main.cpp",
+        "c:\\Users\\ludov\\Documents\\Code\\C++\\Modules\\CMakeLists.txt"
+      ],
+      "averageChangeSize": 7
+    }
+  },
+  "totalActiveTime": 11,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "cpp",
+    "txt"
+  ]
+}
