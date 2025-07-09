@@ -2,9 +2,9 @@
   "date": "2025-07-09",
   "projects": {
     "data": {
-      "totalLinesAdded": 380,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 799,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 13,
       "files": {
         "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_honda\\data\\tyres.ini": [
           {
@@ -82,6 +82,68 @@
           {
             "timestamp": "2025-07-09T18:10:11.921Z",
             "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_honda\\data\\tcurve_soft.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          }
+        ],
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\tyres.ini": [
+          {
+            "timestamp": "2025-07-09T18:45:54.225Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\tyres.ini",
+            "fileType": ".ini",
+            "linesAdded": 364,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          }
+        ],
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\engine.ini": [
+          {
+            "timestamp": "2025-07-09T18:46:32.583Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\engine.ini",
+            "fileType": ".ini",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          }
+        ],
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\throttle.lut": [
+          {
+            "timestamp": "2025-07-09T18:49:06.876Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\throttle.lut",
+            "fileType": ".lut",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-07-09T18:49:07.910Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_judd\\data\\throttle.lut",
             "fileType": ".lut",
             "linesAdded": 0,
             "linesRemoved": 1,
