@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-09",
+  "projects": {
+    "data": {
+      "totalLinesAdded": 364,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_honda\\data\\tyres.ini": [
+          {
+            "timestamp": "2025-07-09T17:51:11.372Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_honda\\data\\tyres.ini",
+            "fileType": ".ini",
+            "linesAdded": 364,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ligier_jsp2_honda\\data\\tyres.ini"
+      ],
+      "averageChangeSize": 364
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "ini"
+  ]
+}
