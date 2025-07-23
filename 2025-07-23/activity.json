@@ -1,0 +1,103 @@
+{
+  "date": "2025-07-23",
+  "projects": {
+    "data": {
+      "totalLinesAdded": 1999,
+      "totalLinesRemoved": 1954,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut": [
+          {
+            "timestamp": "2025-07-23T16:12:31.083Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 1000,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-07-23T16:14:13.952Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 999,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-07-23T16:14:15.050Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 999,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-07-23T16:14:23.540Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 953,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-07-23T16:14:25.718Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          }
+        ]
+      },
+      "languageStats": {
+        "lut": 5
+      },
+      "changeFrequency": {
+        "18": 5
+      },
+      "topFiles": [
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\br_engineering_br1_gibson_fictional\\data\\power.lut"
+      ],
+      "averageChangeSize": 790.6
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "lut"
+  ]
+}
