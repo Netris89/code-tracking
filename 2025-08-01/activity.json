@@ -2,7 +2,7 @@
   "date": "2025-08-01",
   "projects": {
     "data": {
-      "totalLinesAdded": 901,
+      "totalLinesAdded": 1140,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -35,6 +35,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ini"
+          }
+        ],
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\digital_instruments.ini": [
+          {
+            "timestamp": "2025-08-01T15:26:26.202Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\digital_instruments.ini",
+            "fileType": ".ini",
+            "linesAdded": 239,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ini"
           }
         ]
