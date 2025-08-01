@@ -1,0 +1,64 @@
+{
+  "date": "2025-08-01",
+  "projects": {
+    "data": {
+      "totalLinesAdded": 901,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\drivetrain.ini": [
+          {
+            "timestamp": "2025-08-01T15:11:37.958Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\drivetrain.ini",
+            "fileType": ".ini",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          }
+        ],
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\setup.ini": [
+          {
+            "timestamp": "2025-08-01T15:15:48.117Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\setup.ini",
+            "fileType": ".ini",
+            "linesAdded": 838,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 5
+      },
+      "changeFrequency": {
+        "17": 5
+      },
+      "topFiles": [
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\drivetrain.ini",
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\setup.ini"
+      ],
+      "averageChangeSize": 450.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "ini"
+  ]
+}
