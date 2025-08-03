@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "data": {
-      "totalLinesAdded": 565,
-      "totalLinesRemoved": 267,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 586,
+      "totalLinesRemoved": 282,
+      "totalActiveTime": 17,
       "files": {
         "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\lmp2_ligier_jsp217_WEC\\data\\digital_instruments.ini": [
           {
@@ -191,6 +191,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-03T15:33:05.958Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ks_ginetta_g61_lt_p3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-03T15:34:55.015Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ks_ginetta_g61_lt_p3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-03T15:35:05.001Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ks_ginetta_g61_lt_p3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-03T15:35:06.826Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\ks_ginetta_g61_lt_p3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "lut"
           }
         ]
