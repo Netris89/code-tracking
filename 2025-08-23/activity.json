@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-23",
+  "projects": {
+    "2025_IMSA_#45_CetilarRacing_Sebring": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\rss_gtm_furiano_96_v6\\skins\\2025_IMSA_#45_CetilarRacing_Sebring\\skin.ini": [
+          {
+            "timestamp": "2025-08-22T23:35:21.179Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\rss_gtm_furiano_96_v6\\skins\\2025_IMSA_#45_CetilarRacing_Sebring\\skin.ini",
+            "fileType": ".ini",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "2025_IMSA_#45_CetilarRacing_Sebring",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 0
+      },
+      "changeFrequency": {
+        "1": 0
+      },
+      "topFiles": [
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\rss_gtm_furiano_96_v6\\skins\\2025_IMSA_#45_CetilarRacing_Sebring\\skin.ini"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "ini"
+  ]
+}
