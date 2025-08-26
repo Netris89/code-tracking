@@ -2,9 +2,9 @@
   "date": "2025-08-26",
   "projects": {
     "data": {
-      "totalLinesAdded": 38,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 63,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 17,
       "files": {
         "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut": [
           {
@@ -41,6 +41,160 @@
             "fileType": ".lut",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:52:27.262Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:52:51.388Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:53:21.103Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:53:27.893Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:54:30.750Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:54:49.184Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:54:57.571Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:55:38.666Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:56:08.627Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:56:43.039Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lut"
+          },
+          {
+            "timestamp": "2025-08-26T11:56:52.762Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\wec_lmp3_ligier_jsp3\\data\\power.lut",
+            "fileType": ".lut",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "data",
             "content": {
               "added": [],
