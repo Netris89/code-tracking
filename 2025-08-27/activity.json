@@ -2,7 +2,7 @@
   "date": "2025-08-27",
   "projects": {
     "data": {
-      "totalLinesAdded": 59,
+      "totalLinesAdded": 116,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,22 @@
             "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\lmp2_ligier_jsp217_WEC\\data\\car.ini",
             "fileType": ".ini",
             "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          }
+        ],
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\lmp2_ligier_jsp217_WEC\\data\\drivetrain.ini": [
+          {
+            "timestamp": "2025-08-27T16:08:25.546Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\lmp2_ligier_jsp217_WEC\\data\\drivetrain.ini",
+            "fileType": ".ini",
+            "linesAdded": 57,
             "linesRemoved": 0,
             "projectName": "data",
             "content": {
