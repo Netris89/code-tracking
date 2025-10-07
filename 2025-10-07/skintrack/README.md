@@ -4,17 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 142                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 123                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Lines Added** (➕)   | 228                                          |
+| **Lines Removed** (➖) | 48                                        |
+| **Net Change** (↕)    | 180                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
 - **Program.cs** (+32, -5)
 - **Database.cs** (+33, -4)
 - **DbContext.cs** (+35, -0)
-- **AppDbContext.cs** (+42, -10)
+- **AppDbContext.cs** (+53, -33)
+- **SkinTrack.csproj** (+35, -6)
+- **Skin.cs** (+6, -0)
+- **Competition.cs** (+6, -0)
+- **Car.cs** (+5, -0)
+- **DatabaseService.cs** (+23, -0)
 
 ## Visualizations
 
@@ -23,7 +28,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 161
+".cs" : 235
+".csproj" : 41
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "20h" : 25
-"21h" : 5
+"21h" : 24
 ```
 
 
-> **Last Updated:** 10/7/2025, 9:03:43 PM
+> **Last Updated:** 10/7/2025, 9:08:43 PM
