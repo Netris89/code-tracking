@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-13",
+  "projects": {
+    "SkinTrack": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\SkinTrack.csproj": [
+          {
+            "timestamp": "2025-10-13T15:25:51.540Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\SkinTrack.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csproj"
+          }
+        ]
+      },
+      "languageStats": {
+        "csproj": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\SkinTrack.csproj"
+      ],
+      "averageChangeSize": 33
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "csproj"
+  ]
+}
