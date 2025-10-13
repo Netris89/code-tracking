@@ -275,6 +275,39 @@
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\SkinTrack.csproj"
       ],
       "averageChangeSize": 33
+    },
+    "WT_IMSA_2025_nr31": {
+      "totalLinesAdded": 32,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\rss_mph_callahan_v8\\skins\\WT_IMSA_2025_nr31\\ext_config.ini": [
+          {
+            "timestamp": "2025-10-13T19:03:06.871Z",
+            "fileName": "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\rss_mph_callahan_v8\\skins\\WT_IMSA_2025_nr31\\ext_config.ini",
+            "fileType": ".ini",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "WT_IMSA_2025_nr31",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ini"
+          }
+        ]
+      },
+      "languageStats": {
+        "ini": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "e:\\SteamLibrary\\steamapps\\common\\assettocorsa\\content\\cars\\rss_mph_callahan_v8\\skins\\WT_IMSA_2025_nr31\\ext_config.ini"
+      ],
+      "averageChangeSize": 32
     }
   },
   "totalActiveTime": 0,
