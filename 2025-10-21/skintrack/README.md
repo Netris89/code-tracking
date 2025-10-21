@@ -4,16 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 64                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 62                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 218                                          |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 214                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
 - **CarsView.axaml** (+30, -2)
 - **HomeView.axaml** (+15, -0)
 - **HomeView.axaml.cs** (+19, -0)
+- **settings.json** (+10, -0)
+- **SkinTrack.csproj** (+33, -0)
+- **AppDbContext.cs** (+26, -0)
+- **Program.cs** (+36, -0)
+- **MainWindow.axaml.cs** (+13, -2)
+- **MainWindow.axaml** (+36, -0)
 
 ## Visualizations
 
@@ -22,8 +28,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".axaml" : 47
-".cs" : 19
+".axaml" : 83
+".cs" : 96
+".json" : 10
+".csproj" : 33
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 2
-"19h" : 7
+"19h" : 15
 ```
 
 
-> **Last Updated:** 10/21/2025, 7:36:41 PM
+> **Last Updated:** 10/21/2025, 7:45:48 PM
