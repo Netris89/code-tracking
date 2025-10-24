@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 459                                          |
+| **Lines Added** (➕)   | 483                                          |
 | **Lines Removed** (➖) | 71                                        |
-| **Net Change** (↕)    | 388                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Net Change** (↕)    | 412                |
+| **Active Time** (⌚)   | 68 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,7 @@
 - **MainWindowViewModel.cs** (+103, -10)
 - **App.axaml** (+76, -10)
 - **CompetitionsViewModel.cs** (+5, -0)
+- **MainWindow.axaml.cs** (+24, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".axaml" : 412
-".cs" : 118
+".cs" : 142
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 14
 "20h" : 32
-"21h" : 11
+"21h" : 12
 ```
 
 
-> **Last Updated:** 10/24/2025, 9:08:35 PM
+> **Last Updated:** 10/24/2025, 9:13:35 PM
