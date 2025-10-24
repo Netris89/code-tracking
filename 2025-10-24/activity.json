@@ -1,0 +1,89 @@
+{
+  "date": "2025-10-24",
+  "projects": {
+    "SkinTrack": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml": [
+          {
+            "timestamp": "2025-10-24T17:27:17.264Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T17:27:25.582Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T17:27:28.360Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T17:27:30.221Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "axaml": 3
+      },
+      "changeFrequency": {
+        "19": 3
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml"
+      ],
+      "averageChangeSize": 12
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "axaml"
+  ]
+}
