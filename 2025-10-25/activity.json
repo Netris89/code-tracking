@@ -2,9 +2,9 @@
   "date": "2025-10-25",
   "projects": {
     "SkinTrack": {
-      "totalLinesAdded": 106,
+      "totalLinesAdded": 132,
       "totalLinesRemoved": 39,
-      "totalActiveTime": 21,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml": [
           {
@@ -274,6 +274,78 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\App.axaml": [
+          {
+            "timestamp": "2025-10-24T23:32:21.430Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\App.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T23:32:22.438Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\App.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T23:35:23.093Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\App.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T23:35:40.341Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\App.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-24T23:36:31.164Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\App.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
           }
         ]
       },
