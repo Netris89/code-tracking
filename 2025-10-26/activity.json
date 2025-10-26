@@ -2,9 +2,9 @@
   "date": "2025-10-26",
   "projects": {
     "SkinTrack": {
-      "totalLinesAdded": 314,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 320,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 68,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Services\\DatabaseService.cs": [
           {
@@ -706,6 +706,90 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
             "fileType": ".cs",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-26T16:27:06.412Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-26T16:27:41.186Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-26T16:28:08.273Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-26T16:28:10.400Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-26T16:28:57.648Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-26T16:29:21.592Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\MainWindowViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "SkinTrack",
             "content": {
