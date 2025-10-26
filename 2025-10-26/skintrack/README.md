@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 561                                          |
-| **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 483                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Added** (➕)   | 663                                          |
+| **Lines Removed** (➖) | 88                                        |
+| **Net Change** (↕)    | 575                |
+| **Active Time** (⌚)   | 121 minutes |
 
 
 ## Modified Files
@@ -18,13 +18,15 @@
 - **MainWindowViewModel.cs** (+105, -8)
 - **App.axaml.cs** (+34, -0)
 - **MainWindow.axaml.cs** (+24, -12)
-- **MainWindow.axaml** (+61, -0)
+- **MainWindow.axaml** (+122, -1)
 - **CarsView.axaml** (+54, -30)
 - **App.axaml** (+28, -0)
 - **CompetitionsView.axaml** (+27, -4)
 - **Cars.csv** (+28, -6)
 - **Competitions.csv** (+11, -0)
 - **Skins.csv** (+93, -0)
+- **Car.cs** (+18, -1)
+- **Competition.cs** (+23, -8)
 
 ## Visualizations
 
@@ -33,8 +35,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 297
-".axaml" : 204
+".cs" : 347
+".axaml" : 266
 ".csv" : 138
 ```
 
@@ -47,7 +49,8 @@ title Coding activity by hour (count of changes)
 "17h" : 24
 "21h" : 22
 "22h" : 5
+"23h" : 15
 ```
 
 
-> **Last Updated:** 10/26/2025, 10:59:32 PM
+> **Last Updated:** 10/26/2025, 11:04:32 PM
