@@ -2,7 +2,7 @@
   "date": "2025-10-26",
   "projects": {
     "SkinTrack": {
-      "totalLinesAdded": 468,
+      "totalLinesAdded": 561,
       "totalLinesRemoved": 78,
       "totalActiveTime": 101,
       "files": {
@@ -1296,6 +1296,22 @@
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\bin\\Debug\\net9.0\\Competitions.csv",
             "fileType": ".csv",
             "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\bin\\Debug\\net9.0\\Skins.csv": [
+          {
+            "timestamp": "2025-10-26T21:56:23.113Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\bin\\Debug\\net9.0\\Skins.csv",
+            "fileType": ".csv",
+            "linesAdded": 93,
             "linesRemoved": 0,
             "projectName": "SkinTrack",
             "content": {
