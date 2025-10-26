@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 320                                          |
-| **Lines Removed** (➖) | 26                                        |
-| **Net Change** (↕)    | 294                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Removed** (➖) | 38                                        |
+| **Net Change** (↕)    | 282                |
+| **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **SkinsViewModel.cs** (+15, -0)
 - **MainWindowViewModel.cs** (+105, -8)
 - **App.axaml.cs** (+34, -0)
-- **MainWindow.axaml.cs** (+24, -0)
+- **MainWindow.axaml.cs** (+24, -12)
 - **MainWindow.axaml** (+61, -0)
 
 ## Visualizations
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 285
+".cs" : 297
 ".axaml" : 61
 ```
 
@@ -37,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 41
-"17h" : 22
+"17h" : 24
 ```
 
 
-> **Last Updated:** 10/26/2025, 5:32:02 PM
+> **Last Updated:** 10/26/2025, 5:37:02 PM
