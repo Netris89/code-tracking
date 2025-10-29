@@ -1,0 +1,159 @@
+{
+  "date": "2025-10-29",
+  "projects": {
+    "SkinTrack": {
+      "totalLinesAdded": 155,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 10,
+      "files": {
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml": [
+          {
+            "timestamp": "2025-10-29T19:10:55.834Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "axaml"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CarsView.axaml": [
+          {
+            "timestamp": "2025-10-29T19:11:04.474Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CarsView.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CompetitionsView.axaml": [
+          {
+            "timestamp": "2025-10-29T19:12:07.113Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CompetitionsView.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "axaml"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Car.cs": [
+          {
+            "timestamp": "2025-10-29T19:14:13.688Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Car.cs",
+            "fileType": ".cs",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-29T19:14:14.800Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Car.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-29T19:14:20.304Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Car.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-29T19:14:22.837Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Car.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Competition.cs": [
+          {
+            "timestamp": "2025-10-29T19:14:30.714Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Competition.cs",
+            "fileType": ".cs",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "axaml": 3,
+        "cs": 7
+      },
+      "changeFrequency": {
+        "20": 10
+      },
+      "topFiles": [
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Car.cs",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CarsView.axaml",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CompetitionsView.axaml",
+        "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Models\\Competition.cs"
+      ],
+      "averageChangeSize": 19.625
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "cs",
+    "axaml"
+  ]
+}
