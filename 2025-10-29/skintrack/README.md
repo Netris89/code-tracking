@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 277                                          |
-| **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 268                |
-| **Active Time** (⌚)   | 60 minutes |
+| **Lines Added** (➕)   | 476                                          |
+| **Lines Removed** (➖) | 32                                        |
+| **Net Change** (↕)    | 444                |
+| **Active Time** (⌚)   | 107 minutes |
 
 
 ## Modified Files
@@ -16,9 +16,18 @@
 - **CompetitionsView.axaml** (+26, -1)
 - **Car.cs** (+28, -2)
 - **Competition.cs** (+24, -0)
-- **Skin.cs** (+47, -0)
-- **CarsViewModel.cs** (+37, -4)
+- **Skin.cs** (+47, -2)
+- **CarsViewModel.cs** (+37, -8)
 - **CompetitionsViewModel.cs** (+27, -0)
+- **MainWindowViewModel.cs** (+59, -1)
+- **CarsView.axaml.cs** (+13, -2)
+- **DatabaseService.cs** (+34, -2)
+- **SkinsViewModel.cs** (+15, -1)
+- **MainWindow.axaml.cs** (+12, -1)
+- **SkinsView.axaml.cs** (+13, -2)
+- **CompetitionsView.axaml.cs** (+13, -2)
+- **HomeView.axaml.cs** (+14, -3)
+- **AppDbContext.cs** (+26, -3)
 
 ## Visualizations
 
@@ -28,7 +37,7 @@
 pie showData
 title Lines changed by file type
 ".axaml" : 117
-".cs" : 169
+".cs" : 391
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,7 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "20h" : 46
+"21h" : 20
 ```
 
 
-> **Last Updated:** 10/29/2025, 8:59:30 PM
+> **Last Updated:** 10/29/2025, 9:04:30 PM
