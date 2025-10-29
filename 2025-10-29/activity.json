@@ -2,9 +2,9 @@
   "date": "2025-10-29",
   "projects": {
     "SkinTrack": {
-      "totalLinesAdded": 476,
-      "totalLinesRemoved": 32,
-      "totalActiveTime": 107,
+      "totalLinesAdded": 477,
+      "totalLinesRemoved": 33,
+      "totalActiveTime": 113,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml": [
           {
@@ -95,6 +95,34 @@
           },
           {
             "timestamp": "2025-10-29T19:43:19.750Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CarsView.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-29T20:07:53.620Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CarsView.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-10-29T20:08:06.907Z",
             "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\CarsView.axaml",
             "fileType": ".axaml",
             "linesAdded": 0,
