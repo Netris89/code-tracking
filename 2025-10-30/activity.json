@@ -3,7 +3,7 @@
   "projects": {
     "SkinTrack": {
       "totalLinesAdded": 157,
-      "totalLinesRemoved": 3,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 32,
       "files": {
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\SkinsView.axaml": [
@@ -385,6 +385,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-10-30T17:21:32.797Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\SkinsViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]
