@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 157                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 153                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 216                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 211                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
 - **SkinsView.axaml** (+98, -3)
-- **SkinsViewModel.cs** (+59, -1)
+- **SkinsViewModel.cs** (+62, -2)
+- **CarsViewModel.cs** (+29, -0)
+- **CompetitionsViewModel.cs** (+27, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".axaml" : 101
-".cs" : 60
+".cs" : 120
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 22
-"18h" : 6
+"18h" : 12
 ```
 
 
-> **Last Updated:** 10/30/2025, 6:24:09 PM
+> **Last Updated:** 10/30/2025, 6:29:09 PM
