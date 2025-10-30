@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 568                                          |
-| **Lines Removed** (➖) | 37                                        |
-| **Net Change** (↕)    | 531                |
-| **Active Time** (⌚)   | 138 minutes |
+| **Lines Added** (➕)   | 576                                          |
+| **Lines Removed** (➖) | 39                                        |
+| **Net Change** (↕)    | 537                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **MainWindowViewModel.cs** (+59, -0)
 - **HomeView.axaml** (+31, -3)
 - **Icons.axaml** (+31, -17)
-- **MainWindow.axaml** (+65, -1)
+- **MainWindow.axaml** (+73, -3)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".axaml" : 283
+".axaml" : 293
 ".cs" : 322
 ```
 
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "20h" : 35
 "21h" : 16
 "22h" : 8
-"23h" : 17
+"23h" : 23
 ```
 
 
-> **Last Updated:** 10/30/2025, 11:14:06 PM
+> **Last Updated:** 10/30/2025, 11:19:06 PM
