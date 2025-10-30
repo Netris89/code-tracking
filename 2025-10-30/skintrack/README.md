@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 341                                          |
-| **Lines Removed** (➖) | 12                                        |
-| **Net Change** (↕)    | 329                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Lines Added** (➕)   | 410                                          |
+| **Lines Removed** (➖) | 13                                        |
+| **Net Change** (↕)    | 397                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,8 @@
 - **CarsViewModel.cs** (+29, -0)
 - **CompetitionsViewModel.cs** (+27, -0)
 - **DatabaseService.cs** (+32, -0)
-- **HomeViewModel.cs** (+30, -2)
+- **HomeViewModel.cs** (+40, -3)
+- **MainWindowViewModel.cs** (+59, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".axaml" : 135
-".cs" : 218
+".cs" : 288
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "17h" : 22
 "18h" : 12
-"20h" : 19
+"20h" : 26
 ```
 
 
-> **Last Updated:** 10/30/2025, 8:47:33 PM
+> **Last Updated:** 10/30/2025, 8:52:33 PM
