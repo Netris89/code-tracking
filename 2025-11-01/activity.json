@@ -2,7 +2,7 @@
   "date": "2025-11-01",
   "projects": {
     "SkinTrack": {
-      "totalLinesAdded": 748,
+      "totalLinesAdded": 817,
       "totalLinesRemoved": 76,
       "totalActiveTime": 89,
       "files": {
@@ -879,6 +879,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "axaml"
+          },
+          {
+            "timestamp": "2025-11-01T19:44:18.922Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Views\\MainWindow.axaml",
+            "fileType": ".axaml",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "axaml"
           }
         ],
