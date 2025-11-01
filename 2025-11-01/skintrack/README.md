@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 23                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 78                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 76                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
 - **CompetitionsView.axaml** (+23, -0)
+- **CompetitionsViewModel.cs** (+55, -2)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".axaml" : 23
+".cs" : 57
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 1
+"16h" : 19
 ```
 
 
-> **Last Updated:** 11/1/2025, 4:16:20 PM
+> **Last Updated:** 11/1/2025, 4:31:20 PM
