@@ -2,7 +2,7 @@
   "date": "2025-11-01",
   "projects": {
     "SkinTrack": {
-      "totalLinesAdded": 143,
+      "totalLinesAdded": 254,
       "totalLinesRemoved": 9,
       "totalActiveTime": 31,
       "files": {
@@ -358,6 +358,20 @@
             },
             "duration": 2,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-11-01T16:25:54.354Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\ViewModels\\CompetitionsViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
           }
         ],
         "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Services\\DatabaseService.cs": [
@@ -415,6 +429,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-11-01T16:25:54.346Z",
+            "fileName": "c:\\Users\\ludov\\Documents\\Code\\C#\\SkinTrack\\SkinTrack\\Services\\DatabaseService.cs",
+            "fileType": ".cs",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "SkinTrack",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]
